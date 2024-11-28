@@ -1,0 +1,17 @@
+{
+	id: "e6ac11eb-8f3f-3b29-91d9-177fd9312e0c"
+	type: "player"
+	player_name: "JakeRomas"
+	ranks: {
+		e6ac11eb-8f3f-3b29-91d9-177fd9312e0c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JakeRomas"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B859FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

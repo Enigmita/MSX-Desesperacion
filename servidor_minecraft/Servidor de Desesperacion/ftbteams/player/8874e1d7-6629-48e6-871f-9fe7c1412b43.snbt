@@ -1,0 +1,17 @@
+{
+	id: "8874e1d7-6629-48e6-871f-9fe7c1412b43"
+	type: "player"
+	player_name: "Nemenixm"
+	ranks: {
+		8874e1d7-6629-48e6-871f-9fe7c1412b43: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Nemenixm"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFF9"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

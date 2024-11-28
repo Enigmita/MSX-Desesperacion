@@ -1,0 +1,17 @@
+{
+	id: "945f4c6b-8722-4a3d-bb3b-1634774b094d"
+	type: "player"
+	player_name: "NsoEnigma"
+	ranks: {
+		945f4c6b-8722-4a3d-bb3b-1634774b094d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NsoEnigma"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF6B"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
