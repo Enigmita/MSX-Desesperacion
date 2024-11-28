@@ -605,6 +605,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2024-11-28 16:16:45 +0000",
       "minecraft:desert": "2024-11-28 13:14:54 +0000",
       "minecraft:savanna": "2024-11-28 13:49:59 +0000"
     },
@@ -957,9 +958,11 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "prismachasm": "2024-11-28 16:15:44 +0000",
       "tropical_river": "2024-11-28 14:11:08 +0000",
       "eucalyptus_forest": "2024-11-28 14:09:29 +0000",
       "outback": "2024-11-28 13:17:57 +0000",
+      "bamboo_forest": "2024-11-28 16:17:10 +0000",
       "saguaro_desert": "2024-11-28 14:47:00 +0000",
       "grassland": "2024-11-28 15:03:45 +0000"
     },
@@ -970,6 +973,7 @@
       "tropical_river": "2024-11-28 14:11:08 +0000",
       "eucalyptus_forest": "2024-11-28 14:09:29 +0000",
       "outback": "2024-11-28 13:17:57 +0000",
+      "bamboo_forest": "2024-11-28 16:17:10 +0000",
       "saguaro_desert": "2024-11-28 14:47:00 +0000",
       "grassland": "2024-11-28 15:03:45 +0000"
     },
@@ -6584,15 +6588,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_diamond_axe": "2024-11-28 15:42:31 +0000"
+      "has_iron_pickaxe": "2024-11-28 15:27:14 +0000"
     },
     "done": true
   },
-  "minecells:unlock/have_64_cells": {
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "requirement": "2024-11-28 15:56:37 +0000"
+      "has_iron_pickaxe": "2024-11-28 15:27:14 +0000"
     },
     "done": true
   },
@@ -6602,27 +6606,9 @@
     },
     "done": true
   },
-  "minecells:unlock/kill_20_grenadiers": {
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
     "criteria": {
-      "grenadiers_killed": "2024-11-28 15:47:50 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
-    "criteria": {
-      "has_diamond_axe": "2024-11-28 15:42:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_pickaxe": "2024-11-28 15:27:14 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2024-11-28 15:51:31 +0000"
+      "has_diamond_helmet": "2024-11-28 15:42:00 +0000"
     },
     "done": true
   },
@@ -6638,17 +6624,95 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
     "criteria": {
-      "has_diamond_helmet": "2024-11-28 15:42:00 +0000"
+      "has_diamond_axe": "2024-11-28 15:42:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
     "criteria": {
-      "has_iron_pickaxe": "2024-11-28 15:27:14 +0000"
+      "has_diamond_axe": "2024-11-28 15:42:31 +0000"
     },
     "done": true
+  },
+  "minecells:unlock/kill_20_grenadiers": {
+    "criteria": {
+      "grenadiers_killed": "2024-11-28 15:47:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-11-28 15:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/have_64_cells": {
+    "criteria": {
+      "requirement": "2024-11-28 15:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-11-28 16:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-28 16:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-28 16:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-11-28 16:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-28 16:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-28 16:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecells:elite": {
+    "criteria": {
+      "obelisk_activated": "2024-11-28 16:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecells:vine_rune": {
+    "criteria": {
+      "vine_rune": "2024-11-28 16:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecells:ramparts": {
+    "criteria": {
+      "requirement": "2024-11-28 16:10:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "prismachasm": "2024-11-28 16:15:44 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

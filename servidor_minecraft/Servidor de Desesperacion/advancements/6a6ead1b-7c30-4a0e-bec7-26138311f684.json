@@ -4746,5 +4746,41 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tin_storage_block": {
+    "criteria": {
+      "has_raw_tin": "2024-11-28 16:02:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2024-11-28 16:02:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_tin": {
+    "criteria": {
+      "has_raw_tin_ores": "2024-11-28 16:02:13 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_crops": {
+    "criteria": {
+      "white_jungle_grape_seeds": "2024-11-28 16:19:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2024-11-28 16:02:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:root": {
+    "criteria": {
+      "crit_1": "2024-11-28 16:02:13 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
