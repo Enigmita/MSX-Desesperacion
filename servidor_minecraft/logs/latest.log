@@ -2324,3 +2324,22 @@ BCLib - Nether BiomeSource (2d8fd511)
 [15:25:14] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player ivancito3008. Claiming: GRAVE / Robbing: INVENTORY
 [15:25:14] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
 [15:27:14] [Server thread/INFO]: ivancito3008 has made the advancement [Isn't It Iron Pick]
+[15:49:26] [User Authenticator #3/INFO]: UUID of player Lauribluee is 6a6ead1b-7c30-4a0e-bec7-26138311f684
+[15:49:26] [Server thread/INFO]: [Handshake] Sending channel query
+[15:49:26] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[15:49:26] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[15:49:26] [Server thread/INFO]: Lauribluee[/100.104.163.2:17606] logged in with entity id 5928630 at (299.0611030058677, 63.0, 293.4307291355976)
+[15:49:27] [Server thread/INFO]: Sending server config values to client
+[15:49:27] [Server thread/INFO]: Syncing config to Lauribluee (6a6ead1b-7c30-4a0e-bec7-26138311f684)
+[15:49:27] [Server thread/INFO]: Loading config from file...
+[15:49:27] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[15:49:27] [Server thread/INFO]: Lauribluee joined the game
+[15:49:27] [Server thread/INFO]: Updating all forceload tickets for 6a6ead1b-7c30-4a0e-bec7-26138311f684
+[15:49:27] [Server thread/INFO]: PLAYER_JOIN
+[15:49:27] [Server thread/INFO]: add_player wand
+[15:49:27] [Server thread/INFO]: config sent
+[15:49:28] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[15:49:30] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Lauribluee -> Global
+[15:49:30] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Lauribluee. Claiming: GRAVE / Robbing: INVENTORY
+[15:49:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15:49:33] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Lauribluee accepted server config.

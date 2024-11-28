@@ -4536,21 +4536,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/eucalyptus_button": {
-    "criteria": {
-      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/crafting_table/parts/plantball_from_saplings": {
     "criteria": {
       "has_sapling": "2024-11-28 13:52:47 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
-    "criteria": {
-      "has_tag_c_chest": "2024-11-28 14:13:48 +0000"
     },
     "done": true
   },
@@ -4560,21 +4548,39 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/eucalyptus_trapdoor": {
+  "regions_unexplored:recipes/decorations/eucalyptus_shrub": {
     "criteria": {
-      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
+      "has_eucalyptus_sapling": "2024-11-28 13:52:47 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/eucalyptus_door": {
+  "seasonsextras:recipes/seasonal_compendium": {
     "criteria": {
-      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
+      "has_sapling": "2024-11-28 13:52:47 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/eucalyptus_stairs": {
+  "techreborn:recipes/compressor/compressed_plantball": {
     "criteria": {
-      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
+      "has_plantball_material": "2024-11-28 13:52:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2024-11-28 13:52:47 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2024-11-28 14:05:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2024-11-28 14:13:48 +0000"
     },
     "done": true
   },
@@ -4608,12 +4614,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/eucalyptus_fence_gate": {
-    "criteria": {
-      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/transportation/anchor_tree_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2024-11-28 14:13:48 +0000"
@@ -4638,39 +4638,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/eucalyptus_sapling_from_eucalyptus_shrub": {
-    "criteria": {
-      "has_eucalyptus_shrub": "2024-11-28 14:23:21 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/eucalyptus_shrub": {
-    "criteria": {
-      "has_eucalyptus_sapling": "2024-11-28 13:52:47 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/seasonal_compendium": {
-    "criteria": {
-      "has_sapling": "2024-11-28 13:52:47 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/compressed_plantball": {
-    "criteria": {
-      "has_plantball_material": "2024-11-28 13:52:47 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/transportation/rubeus_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2024-11-28 14:13:48 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/eucalyptus_pressure_plate": {
-    "criteria": {
-      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
     },
     "done": true
   },
@@ -4680,45 +4650,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/eucalyptus_sign": {
-    "criteria": {
-      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/lexicon": {
-    "criteria": {
-      "has_item": "2024-11-28 13:52:47 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/bone_meal_from_seashells": {
-    "criteria": {
-      "has_item": "2024-11-28 14:05:44 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/transportation/wart_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2024-11-28 14:13:48 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/eucalyptus_fence": {
-    "criteria": {
-      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_eucalyptus": {
-    "criteria": {
-      "has_planks": "2024-11-28 14:24:12 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/eucalyptus_slab": {
-    "criteria": {
-      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
     },
     "done": true
   },
@@ -4743,6 +4677,72 @@
   "bclib:recipes/redstone/tag_hopper": {
     "criteria": {
       "has_tag_c_chest": "2024-11-28 14:13:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/eucalyptus_sapling_from_eucalyptus_shrub": {
+    "criteria": {
+      "has_eucalyptus_shrub": "2024-11-28 14:23:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_button": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_trapdoor": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_door": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_stairs": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_fence_gate": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_pressure_plate": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_sign": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_fence": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_eucalyptus": {
+    "criteria": {
+      "has_planks": "2024-11-28 14:24:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_slab": {
+    "criteria": {
+      "has_eucalyptus_planks": "2024-11-28 14:24:12 +0000"
     },
     "done": true
   },
