@@ -2301,3 +2301,26 @@ BCLib - Nether BiomeSource (2d8fd511)
 [15:15:45] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-9, y=73, z=-869} but found not block entity block Block{minecraft:air} at location
 [15:15:45] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=-9, y=73, z=-869}
 [15:17:43] [Server thread/INFO]: ivancito3008 has made the advancement [Penteconter]
+[15:23:51] [Server thread/INFO]: ivancito3008 lost connection: Disconnected
+[15:23:51] [Server thread/INFO]: ivancito3008 left the game
+[15:23:51] [Server thread/INFO]: remove player wand
+[15:23:51] [Server thread/INFO]: Updating all forceload tickets for 854229f9-91e2-4afb-a7ec-1f9af9043dad
+[15:25:12] [User Authenticator #2/INFO]: UUID of player ivancito3008 is 854229f9-91e2-4afb-a7ec-1f9af9043dad
+[15:25:12] [Server thread/INFO]: [Handshake] Sending channel query
+[15:25:12] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[15:25:12] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[15:25:12] [Server thread/INFO]: ivancito3008[/100.118.156.17:53142] logged in with entity id 1601127 at (-58.300397853395715, 40.0, -854.8255259368574)
+[15:25:12] [Server thread/INFO]: Sending server config values to client
+[15:25:12] [Server thread/INFO]: Syncing config to ivancito3008 (854229f9-91e2-4afb-a7ec-1f9af9043dad)
+[15:25:12] [Server thread/INFO]: Loading config from file...
+[15:25:12] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[15:25:13] [Server thread/INFO]: ivancito3008 joined the game
+[15:25:13] [Server thread/INFO]: Updating all forceload tickets for 854229f9-91e2-4afb-a7ec-1f9af9043dad
+[15:25:13] [Server thread/INFO]: PLAYER_JOIN
+[15:25:13] [Server thread/INFO]: add_player wand
+[15:25:13] [Server thread/INFO]: config sent
+[15:25:13] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[15:25:14] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: ivancito3008 -> Global
+[15:25:14] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player ivancito3008. Claiming: GRAVE / Robbing: INVENTORY
+[15:25:14] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
+[15:27:14] [Server thread/INFO]: ivancito3008 has made the advancement [Isn't It Iron Pick]
