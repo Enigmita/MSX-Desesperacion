@@ -960,7 +960,8 @@
       "tropical_river": "2024-11-28 14:11:08 +0000",
       "eucalyptus_forest": "2024-11-28 14:09:29 +0000",
       "outback": "2024-11-28 13:17:57 +0000",
-      "saguaro_desert": "2024-11-28 14:47:00 +0000"
+      "saguaro_desert": "2024-11-28 14:47:00 +0000",
+      "grassland": "2024-11-28 15:03:45 +0000"
     },
     "done": false
   },
@@ -969,7 +970,8 @@
       "tropical_river": "2024-11-28 14:11:08 +0000",
       "eucalyptus_forest": "2024-11-28 14:09:29 +0000",
       "outback": "2024-11-28 13:17:57 +0000",
-      "saguaro_desert": "2024-11-28 14:47:00 +0000"
+      "saguaro_desert": "2024-11-28 14:47:00 +0000",
+      "grassland": "2024-11-28 15:03:45 +0000"
     },
     "done": false
   },
@@ -6270,6 +6272,24 @@
     },
     "done": true
   },
+  "minecells:book/mobs/undead_archer": {
+    "criteria": {
+      "requirement": "2024-11-28 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_a_leaping_zombie": {
+    "criteria": {
+      "leaping_zombie_killed": "2024-11-28 15:05:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "has_paper": "2024-11-28 15:13:23 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/grim_armor_helmet": {
     "criteria": {
       "has_bone": "2024-11-28 14:48:10 +0000"
@@ -6282,9 +6302,57 @@
     },
     "done": true
   },
+  "minecells:prison": {
+    "criteria": {
+      "requirement": "2024-11-28 15:04:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_enchanted_book": {
+    "criteria": {
+      "has_enchanted_book": "2024-11-28 15:13:21 +0000"
+    },
+    "done": true
+  },
+  "minecells:root": {
+    "criteria": {
+      "requirement": "2024-11-28 15:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/book": {
+    "criteria": {
+      "requirement": "2024-11-28 15:03:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-11-28 15:07:06 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2024-11-28 15:13:23 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/granite_lantern": {
     "criteria": {
       "has_granite_slab": "2024-11-28 14:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-11-28 15:13:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-11-28 15:13:23 +0000"
     },
     "done": true
   },
@@ -6294,15 +6362,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-11-28 15:13:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-11-28 15:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2024-11-28 15:11:47 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf": {
     "criteria": {
       "has_bone": "2024-11-28 14:48:10 +0000"
     },
     "done": true
   },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2024-11-28 15:06:53 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2024-11-28 14:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-11-28 15:13:23 +0000"
     },
     "done": true
   },
@@ -6321,6 +6419,12 @@
   "graveyard:graveyard/root": {
     "criteria": {
       "grave_02": "2024-11-28 14:49:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-11-28 15:13:23 +0000"
     },
     "done": true
   },
@@ -6348,9 +6452,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2024-11-28 15:13:23 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "skeleton_creeper": "2024-11-28 14:47:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2024-11-28 15:13:23 +0000"
     },
     "done": true
   },
@@ -6363,6 +6479,12 @@
   "friendsandfoes:adventure/it_bites": {
     "criteria": {
       "killed_mauler": "2024-11-28 14:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/leaping_zombie": {
+    "criteria": {
+      "requirement": "2024-11-28 15:05:30 +0000"
     },
     "done": true
   },
