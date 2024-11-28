@@ -2343,3 +2343,5 @@ BCLib - Nether BiomeSource (2d8fd511)
 [15:49:30] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Lauribluee. Claiming: GRAVE / Robbing: INVENTORY
 [15:49:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [15:49:33] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Lauribluee accepted server config.
+[15:51:31] [Server thread/INFO]: ivancito3008 has completed the challenge [Centennial]
+[15:52:49] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000

@@ -6590,6 +6590,12 @@
     },
     "done": true
   },
+  "minecells:unlock/have_64_cells": {
+    "criteria": {
+      "requirement": "2024-11-28 15:56:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
     "criteria": {
       "has_diamond_helmet": "2024-11-28 15:42:00 +0000"
@@ -6611,6 +6617,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-11-28 15:27:14 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-11-28 15:51:31 +0000"
     },
     "done": true
   },
