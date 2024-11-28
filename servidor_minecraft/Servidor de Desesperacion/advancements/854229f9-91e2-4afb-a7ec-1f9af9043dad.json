@@ -958,9 +958,13 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "dry_bushland": "2024-11-28 16:29:22 +0000",
       "prismachasm": "2024-11-28 16:15:44 +0000",
+      "marsh": "2024-11-28 16:28:00 +0000",
+      "rocky_meadow": "2024-11-28 16:24:48 +0000",
       "tropical_river": "2024-11-28 14:11:08 +0000",
       "eucalyptus_forest": "2024-11-28 14:09:29 +0000",
+      "magnolia_highlands": "2024-11-28 16:25:22 +0000",
       "outback": "2024-11-28 13:17:57 +0000",
       "bamboo_forest": "2024-11-28 16:17:10 +0000",
       "saguaro_desert": "2024-11-28 14:47:00 +0000",
@@ -970,8 +974,12 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "dry_bushland": "2024-11-28 16:29:22 +0000",
+      "marsh": "2024-11-28 16:28:00 +0000",
+      "rocky_meadow": "2024-11-28 16:24:48 +0000",
       "tropical_river": "2024-11-28 14:11:08 +0000",
       "eucalyptus_forest": "2024-11-28 14:09:29 +0000",
+      "magnolia_highlands": "2024-11-28 16:25:22 +0000",
       "outback": "2024-11-28 13:17:57 +0000",
       "bamboo_forest": "2024-11-28 16:17:10 +0000",
       "saguaro_desert": "2024-11-28 14:47:00 +0000",
@@ -1447,6 +1455,7 @@
       "minecraft:skeleton": "2024-11-28 14:16:47 +0000",
       "minecraft:spider": "2024-11-28 14:15:17 +0000",
       "minecraft:creeper": "2024-11-28 14:47:26 +0000",
+      "minecraft:phantom": "2024-11-28 16:26:49 +0000",
       "minecraft:husk": "2024-11-28 13:20:02 +0000",
       "minecraft:cave_spider": "2024-11-28 14:14:01 +0000",
       "minecraft:enderman": "2024-11-28 14:54:19 +0000",
@@ -6708,11 +6717,65 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2024-11-28 16:26:53 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2024-11-28 16:23:17 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2024-11-28 16:20:43 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2024-11-28 16:26:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:spelunker": {
     "criteria": {
       "prismachasm": "2024-11-28 16:15:44 +0000"
     },
     "done": false
+  },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_phantom_bones": "2024-11-28 16:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 16:26:53 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-11-28 16:26:49 +0000"
+    },
+    "done": false
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 16:26:53 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "rogue_eye": "2024-11-28 16:20:43 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
