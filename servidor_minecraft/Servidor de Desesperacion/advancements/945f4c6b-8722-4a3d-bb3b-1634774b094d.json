@@ -8335,6 +8335,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/brown_dye_from_dead_steppe_shrub": {
+    "criteria": {
+      "has_dead_steppe_shrub": "2024-11-29 16:13:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-11-29 14:59:14 +0000"
@@ -8899,9 +8905,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/dead_shrub": {
+    "criteria": {
+      "has_dead_sapling": "2024-11-29 16:13:42 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_streamlined": {
     "criteria": {
       "has_item": "2024-11-29 14:41:56 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-11-29 16:16:22 +0000"
     },
     "done": true
   },
