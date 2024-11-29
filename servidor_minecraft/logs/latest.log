@@ -2318,3 +2318,23 @@ BCLib - The End  BiomeSource (3b73adea)
 [14:58:30] [Server thread/INFO]: [NsoEnigma: Set the time to 1000]
 [15:07:34] [Server thread/INFO]: [NsoEnigma: Set the time to 1000]
 [15:15:02] [Server thread/INFO]: NsoEnigma has made the advancement [When in Rome]
+[16:03:25] [Server thread/INFO]: [bclib] Created at class_2338{x=949, y=71, z=370}, Block{betternether:dark_oak_chair}[facing=south,top=false], Block{minecraft:air}
+[16:03:25] [Server thread/INFO]: [bclib] Creating Chair at class_2338{x=949, y=71, z=370}, Block{betternether:dark_oak_chair}[facing=south,top=false]
+[16:03:25] [Server thread/INFO]: [bclib] Created at class_2338{x=949, y=72, z=370}, Block{betternether:dark_oak_chair}[facing=south,top=true], Block{minecraft:air}
+[16:03:25] [Server thread/INFO]: [bclib] Created at class_2338{x=948, y=71, z=370}, Block{betternether:dark_oak_chair}[facing=south,top=false], Block{minecraft:air}
+[16:03:25] [Server thread/INFO]: [bclib] Creating Chair at class_2338{x=948, y=71, z=370}, Block{betternether:dark_oak_chair}[facing=south,top=false]
+[16:03:25] [Server thread/INFO]: [bclib] Created at class_2338{x=948, y=72, z=370}, Block{betternether:dark_oak_chair}[facing=south,top=true], Block{minecraft:air}
+[16:03:26] [Server thread/INFO]: [bclib] Chair Block was deleted -> ejecting
+[16:03:27] [Server thread/INFO]: [bclib] Chair Block was deleted -> ejecting
+[16:03:28] [Server thread/INFO]: [bclib] Created at class_2338{x=949, y=71, z=370}, Block{betternether:dark_oak_chair}[facing=north,top=false], Block{minecraft:air}
+[16:03:28] [Server thread/INFO]: [bclib] Creating Chair at class_2338{x=949, y=71, z=370}, Block{betternether:dark_oak_chair}[facing=north,top=false]
+[16:03:28] [Server thread/INFO]: [bclib] Created at class_2338{x=949, y=72, z=370}, Block{betternether:dark_oak_chair}[facing=north,top=true], Block{minecraft:air}
+[16:03:29] [Server thread/INFO]: [bclib] Created at class_2338{x=948, y=71, z=370}, Block{betternether:dark_oak_chair}[facing=north,top=false], Block{minecraft:air}
+[16:03:29] [Server thread/INFO]: [bclib] Creating Chair at class_2338{x=948, y=71, z=370}, Block{betternether:dark_oak_chair}[facing=north,top=false]
+[16:03:29] [Server thread/INFO]: [bclib] Created at class_2338{x=948, y=72, z=370}, Block{betternether:dark_oak_chair}[facing=north,top=true], Block{minecraft:air}
+[16:03:31] [Server thread/INFO]: [bclib] Created at class_2338{x=948, y=71, z=372}, Block{betternether:dark_oak_chair}[facing=south,top=false], Block{minecraft:air}
+[16:03:31] [Server thread/INFO]: [bclib] Creating Chair at class_2338{x=948, y=71, z=372}, Block{betternether:dark_oak_chair}[facing=south,top=false]
+[16:03:31] [Server thread/INFO]: [bclib] Created at class_2338{x=948, y=72, z=372}, Block{betternether:dark_oak_chair}[facing=south,top=true], Block{minecraft:air}
+[16:03:31] [Server thread/INFO]: [bclib] Created at class_2338{x=949, y=71, z=372}, Block{betternether:dark_oak_chair}[facing=south,top=false], Block{minecraft:air}
+[16:03:31] [Server thread/INFO]: [bclib] Creating Chair at class_2338{x=949, y=71, z=372}, Block{betternether:dark_oak_chair}[facing=south,top=false]
+[16:03:31] [Server thread/INFO]: [bclib] Created at class_2338{x=949, y=72, z=372}, Block{betternether:dark_oak_chair}[facing=south,top=true], Block{minecraft:air}
