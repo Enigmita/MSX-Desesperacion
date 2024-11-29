@@ -2338,3 +2338,4 @@ BCLib - The End  BiomeSource (3b73adea)
 [16:03:31] [Server thread/INFO]: [bclib] Created at class_2338{x=949, y=71, z=372}, Block{betternether:dark_oak_chair}[facing=south,top=false], Block{minecraft:air}
 [16:03:31] [Server thread/INFO]: [bclib] Creating Chair at class_2338{x=949, y=71, z=372}, Block{betternether:dark_oak_chair}[facing=south,top=false]
 [16:03:31] [Server thread/INFO]: [bclib] Created at class_2338{x=949, y=72, z=372}, Block{betternether:dark_oak_chair}[facing=south,top=true], Block{minecraft:air}
+[16:10:06] [Server thread/INFO]: NsoEnigma has made the advancement [Local Librarian]
