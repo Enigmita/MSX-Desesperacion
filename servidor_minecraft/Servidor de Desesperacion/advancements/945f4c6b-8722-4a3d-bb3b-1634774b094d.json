@@ -8083,6 +8083,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tiles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/spruce_table": {
     "criteria": {
       "has_bamboo": "2024-11-29 14:13:35 +0000"
@@ -8116,6 +8134,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-29 14:12:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_pavers_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -8155,6 +8179,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_coalburner": {
     "criteria": {
       "has_item": "2024-11-29 14:41:56 +0000"
@@ -8173,9 +8203,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-11-29 13:35:27 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/cauldron_armor_chestplate": {
+    "criteria": {
+      "has_cauldron": "2024-11-29 15:20:10 +0000"
     },
     "done": true
   },
@@ -8203,6 +8245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-11-29 15:21:19 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/infusion_pedestal": {
     "criteria": {
       "has_obsidian": "2024-11-29 13:39:11 +0000"
@@ -8212,6 +8260,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-11-29 14:12:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 15:21:57 +0000"
     },
     "done": true
   },
@@ -8251,6 +8305,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-11-29 14:13:35 +0000"
@@ -8272,6 +8332,24 @@
   "techreborn:recipes/compressor/obsidian_plate_from_block": {
     "criteria": {
       "has_obsidian": "2024-11-29 13:39:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -8311,6 +8389,18 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-11-29 15:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-11-29 15:21:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-29 14:12:50 +0000"
@@ -8332,6 +8422,18 @@
   "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
       "has_kitchen_hood_pipe": "2024-11-29 14:39:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 15:21:57 +0000"
     },
     "done": true
   },
@@ -8401,15 +8503,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_shingle_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
     "criteria": {
       "has_stripped_log": "2024-11-29 14:44:02 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-11-29 13:35:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -8509,6 +8629,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-11-29 15:21:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-11-29 15:00:17 +0000"
@@ -8527,9 +8653,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-11-29 15:21:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2024-11-29 14:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 15:21:57 +0000"
     },
     "done": true
   },
@@ -8545,6 +8689,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-29 14:13:35 +0000"
@@ -8557,9 +8707,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
     "criteria": {
       "has_log": "2024-11-29 14:12:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -8623,6 +8785,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
+    "criteria": {
+      "has_rail": "2024-11-29 15:21:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/burn_pottery_sherd": {
     "criteria": {
       "has_campfire": "2024-11-29 14:41:56 +0000"
@@ -8638,6 +8818,18 @@
   "twigs:recipes/tables/spruce_table_slab": {
     "criteria": {
       "has_bamboo": "2024-11-29 14:59:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -8683,6 +8875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-11-29 14:12:31 +0000"
@@ -8692,6 +8890,12 @@
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2024-11-29 14:41:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -8731,6 +8935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-29 13:35:27 +0000"
@@ -8758,6 +8968,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-11-29 13:35:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-11-29 15:17:54 +0000"
     },
     "done": true
   },
@@ -8797,15 +9013,51 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 15:21:57 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2024-11-29 15:17:54 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_destructor_hammer": {
     "criteria": {
       "has_material": "2024-11-29 14:12:50 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-11-29 14:29:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 15:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 15:21:57 +0000"
     },
     "done": true
   },
@@ -8869,6 +9121,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-11-29 15:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-11-29 15:00:17 +0000"
@@ -8887,9 +9151,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-11-29 15:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2024-11-29 14:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -8899,9 +9175,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_paver_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_desk": {
     "criteria": {
       "has_spruce_desk": "2024-11-29 14:13:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -8911,9 +9205,33 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/witch_cauldron": {
+    "criteria": {
+      "has_item": "2024-11-29 15:20:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2024-11-29 15:21:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2024-11-29 14:59:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -8989,9 +9307,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_tile_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/stone_column_stonecutting": {
     "criteria": {
       "has_item": "2024-11-29 14:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -9004,6 +9334,18 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-29 14:12:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -9022,6 +9364,36 @@
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_obsidian": "2024-11-29 13:39:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-11-29 15:15:02 +0000"
+    },
+    "done": false
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -9055,9 +9427,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_plates_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_stone": "2024-11-29 14:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 15:21:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-11-29 15:21:57 +0000"
     },
     "done": true
   },
@@ -9079,9 +9469,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "has_cobblestone_slab": "2024-11-29 14:40:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -9106,6 +9514,18 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-29 13:35:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_andesite_tiles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -9139,6 +9559,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 15:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-11-29 13:35:27 +0000"
@@ -9148,6 +9580,12 @@
   "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-29 14:12:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -9163,9 +9601,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_tile_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-11-29 15:15:02 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_oilburner": {
     "criteria": {
       "has_item": "2024-11-29 14:41:56 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -9193,9 +9649,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 15:21:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2024-11-29 15:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-11-29 14:12:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingle_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -9211,9 +9691,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2024-11-29 14:12:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
+    "criteria": {
+      "has_barrel": "2024-11-29 15:17:54 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tile_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -9226,6 +9736,12 @@
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2024-11-29 14:12:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -9277,6 +9793,30 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
+    "criteria": {
+      "has_item": "2024-11-29 15:21:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2024-11-29 15:21:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-11-29 14:12:50 +0000"
@@ -9286,6 +9826,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-11-29 14:12:51 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2024-11-29 15:17:54 +0000"
     },
     "done": true
   },
@@ -9301,9 +9847,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_caboosestyle": {
     "criteria": {
       "has_item": "2024-11-29 14:41:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -9331,6 +9889,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-11-29 15:17:54 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_shingle_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-29 14:12:50 +0000"
@@ -9352,6 +9916,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
     "criteria": {
       "has_plank": "2024-11-29 14:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
@@ -9379,6 +9949,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
     "criteria": {
       "has_item": "2024-11-29 14:10:05 +0000"
@@ -9388,6 +9970,12 @@
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2024-11-29 14:12:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-11-29 15:17:22 +0000"
     },
     "done": true
   },
