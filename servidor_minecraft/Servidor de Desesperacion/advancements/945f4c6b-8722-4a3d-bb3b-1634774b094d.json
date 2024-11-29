@@ -8095,6 +8095,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/brazier": {
+    "criteria": {
+      "has_bar": "2024-11-29 14:39:23 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/shelf": {
     "criteria": {
       "has_spruce_planks": "2024-11-29 14:13:35 +0000"
@@ -8134,6 +8140,18 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-11-29 13:35:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2024-11-29 14:42:34 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_coalburner": {
+    "criteria": {
+      "has_item": "2024-11-29 14:41:56 +0000"
     },
     "done": true
   },
@@ -8188,6 +8206,12 @@
   "bewitchment:recipes/decorations/stone_witch_altar": {
     "criteria": {
       "has_item": "2024-11-29 14:12:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/drain": {
+    "criteria": {
+      "has_iron_bars": "2024-11-29 14:39:23 +0000"
     },
     "done": true
   },
@@ -8263,9 +8287,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-11-29 14:42:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-29 14:12:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2024-11-29 14:39:23 +0000"
     },
     "done": true
   },
@@ -8365,6 +8401,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-11-29 14:41:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_tile_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-29 14:12:50 +0000"
@@ -8374,6 +8416,12 @@
   "handcrafted:recipes/misc/spruce_shelf": {
     "criteria": {
       "has_spruce_shelf": "2024-11-29 14:13:35 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2024-11-29 14:41:56 +0000"
     },
     "done": true
   },
@@ -8449,6 +8497,12 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/smokestack_long": {
+    "criteria": {
+      "has_item": "2024-11-29 14:41:56 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_pillager_trophy": "2024-11-29 14:12:50 +0000"
@@ -8491,6 +8545,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/burn_pottery_sherd": {
+    "criteria": {
+      "has_campfire": "2024-11-29 14:41:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-11-29 14:12:51 +0000"
@@ -8509,6 +8569,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
+    "criteria": {
+      "has_bar": "2024-11-29 14:39:23 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_nugget_from_shovel": {
     "criteria": {
       "has_golden_shovel": "2024-11-29 13:39:11 +0000"
@@ -8521,6 +8587,12 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/smokestack_streamlined": {
+    "criteria": {
+      "has_item": "2024-11-29 14:41:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/spruce_slab_from_stairs": {
     "criteria": {
       "has_spruce_stairs": "2024-11-29 14:21:39 +0000"
@@ -8530,6 +8602,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-11-29 14:12:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2024-11-29 14:41:56 +0000"
     },
     "done": true
   },
@@ -8590,6 +8668,12 @@
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2024-11-29 14:12:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2024-11-29 14:39:23 +0000"
     },
     "done": true
   },
@@ -8683,6 +8767,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot": {
+    "criteria": {
+      "has_iron_bars": "2024-11-29 14:39:23 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-11-29 13:39:11 +0000"
@@ -8755,6 +8845,12 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/smokestack_diesel": {
+    "criteria": {
+      "has_item": "2024-11-29 14:41:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-11-29 14:12:51 +0000"
@@ -8812,6 +8908,12 @@
   "stoneworks:recipes/building_blocks/stone_pavers_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-29 14:12:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "has_cobblestone_slab": "2024-11-29 14:40:09 +0000"
     },
     "done": true
   },
@@ -8887,6 +8989,12 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/smokestack_oilburner": {
+    "criteria": {
+      "has_item": "2024-11-29 14:41:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-11-29 13:39:11 +0000"
@@ -8914,6 +9022,12 @@
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-11-29 14:12:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2024-11-29 14:42:34 +0000"
     },
     "done": true
   },
@@ -8998,6 +9112,12 @@
   "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-11-29 13:39:11 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
+    "criteria": {
+      "has_item": "2024-11-29 14:41:56 +0000"
     },
     "done": true
   },
