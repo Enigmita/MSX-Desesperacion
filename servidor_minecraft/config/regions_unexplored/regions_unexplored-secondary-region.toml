@@ -1,3 +1,12 @@
+[-----------------UNDERGROUND_BIOMES--------------------]
+	cave_6_biome = "regions_unexplored:prismachasm"
+	cave_8_biome = "regions_unexplored:scorching_caves"
+	cave_5_biome = "regions_unexplored:ancient_delta"
+	cave_3_biome = "minecraft:deep_dark"
+	cave_1_biome = "minecraft:lush_caves"
+	cave_4_biome = "regions_unexplored:bioshroom_caves"
+	cave_7_biome = "regions_unexplored:redstone_caves"
+	cave_2_biome = "minecraft:dripstone_caves"
 #Config for Regions Unexplored secondary region!
 #NOTICE: Make sure 'enable_custom_regions' is enabled in Common configs or this config will have no effect on generation!
 #If you have custom regions enabled: to get future update biomes to spawn, you will either need to delete the config and let it regen, or add the new biomes manually.
@@ -298,20 +307,11 @@
 	hot_stone_beach_biome = "regions_unexplored:chalk_cliffs"
 	neutral_beach_biome = "regions_unexplored:grassy_beach"
 	hot_beach_biome = "minecraft:beach"
-[-----------------UNDERGROUND_BIOMES--------------------]
-	cave_6_biome = "regions_unexplored:prismachasm"
-	cave_8_biome = "regions_unexplored:scorching_caves"
-	cave_5_biome = "regions_unexplored:ancient_delta"
-	cave_3_biome = "minecraft:deep_dark"
-	cave_1_biome = "minecraft:lush_caves"
-	cave_4_biome = "regions_unexplored:bioshroom_caves"
-	cave_7_biome = "regions_unexplored:redstone_caves"
-	cave_2_biome = "minecraft:dripstone_caves"
 [-----------------ISLAND_BIOMES--------------------]
 	icy_island_biome = "regions_unexplored:alpha_grove"
-	hot_island_biome = "regions_unexplored:tropics"
-	warm_island_biome = "regions_unexplored:tropics"
 	cool_island_biome = "regions_unexplored:alpha_grove"
 	neutral_island_biome = "regions_unexplored:ashen_woodland"
+	warm_island_biome = "regions_unexplored:tropics"
+	hot_island_biome = "regions_unexplored:tropics"
 [-----------------OTHER_BIOMES--------------------]
 	shattered_cliff_biome = "regions_unexplored:towering_cliffs"

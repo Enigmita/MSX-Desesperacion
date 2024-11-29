@@ -1,4 +1,4 @@
------------------RIVER_BIOMES_VARIANT-------------------- = {}
+-----------------UNDERGROUND_BIOMES-------------------- = {}
 
 #Config for Regions Unexplored secondary region!
 #NOTICE: Make sure 'enable_custom_regions' is enabled in Common configs or this config will have no effect on generation!
@@ -215,3 +215,88 @@
 	hot_neutral = "regions_unexplored:tropical_river"
 	hot_wet = "regions_unexplored:tropical_river"
 	hot_humid = "regions_unexplored:tropical_river"
+[-----------------RIVER_BIOMES_VARIANT--------------------]
+	#icy_biomes
+	icy_arid = "minecraft:frozen_river"
+	icy_dry = "minecraft:frozen_river"
+	icy_neutral = "minecraft:frozen_river"
+	icy_wet = "minecraft:frozen_river"
+	icy_humid = "minecraft:frozen_river"
+	#cool_biomes
+	cool_arid = "regions_unexplored:cold_river"
+	cool_dry = "regions_unexplored:cold_river"
+	cool_neutral = "regions_unexplored:cold_river"
+	cool_wet = "regions_unexplored:muddy_river"
+	cool_humid = "regions_unexplored:muddy_river"
+	#neutral_biomes
+	neutral_arid = "minecraft:river"
+	neutral_dry = "minecraft:river"
+	neutral_neutral = "minecraft:river"
+	neutral_wet = "minecraft:river"
+	neutral_humid = "minecraft:river"
+	#warm_biomes
+	warm_arid = "minecraft:river"
+	warm_dry = "minecraft:river"
+	warm_neutral = "minecraft:river"
+	warm_wet = "minecraft:river"
+	warm_humid = "minecraft:river"
+	#hot_biomes
+	hot_arid = "minecraft:river"
+	hot_dry = "minecraft:river"
+	hot_neutral = "regions_unexplored:tropical_river"
+	hot_wet = "regions_unexplored:tropical_river"
+	hot_humid = "regions_unexplored:tropical_river"
+[-----------------SWAMP_BIOMES--------------------]
+	#icy_biomes
+	icy_arid = "regions_unexplored:spires"
+	icy_dry = "regions_unexplored:spires"
+	icy_neutral = "regions_unexplored:spires"
+	icy_wet = "regions_unexplored:spires"
+	icy_humid = "regions_unexplored:spires"
+	#cool_biomes
+	cool_arid = "regions_unexplored:fen"
+	cool_dry = "regions_unexplored:fen"
+	cool_neutral = "regions_unexplored:fen"
+	cool_wet = "regions_unexplored:fen"
+	cool_humid = "regions_unexplored:fen"
+	#neutral_biomes
+	neutral_arid = "regions_unexplored:old_growth_bayou"
+	neutral_dry = "regions_unexplored:bayou"
+	neutral_neutral = "regions_unexplored:bayou"
+	neutral_wet = "regions_unexplored:bayou"
+	neutral_humid = "regions_unexplored:old_growth_bayou"
+	#warm_biomes
+	warm_arid = "regions_unexplored:marsh"
+	warm_dry = "regions_unexplored:marsh"
+	warm_neutral = "regions_unexplored:marsh"
+	warm_wet = "regions_unexplored:marsh"
+	warm_humid = "regions_unexplored:marsh"
+	#hot_biomes
+	hot_arid = "regions_unexplored:fungal_fen"
+	hot_dry = "regions_unexplored:fungal_fen"
+	hot_neutral = "regions_unexplored:fungal_fen"
+	hot_wet = "regions_unexplored:fungal_fen"
+	hot_humid = "regions_unexplored:fungal_fen"
+[-----------------OCEAN_BIOMES--------------------]
+	#deep_oceans
+	deep_icy = "regions_unexplored:hyacinth_deeps"
+	deep_cool = "minecraft:deep_cold_ocean"
+	deep_neutral = "minecraft:deep_ocean"
+	deep_warm = "minecraft:deep_lukewarm_ocean"
+	deep_hot = "minecraft:warm_ocean"
+	#oceans
+	icy = "minecraft:frozen_ocean"
+	cool = "minecraft:cold_ocean"
+	neutral = "minecraft:ocean"
+	warm = "minecraft:lukewarm_ocean"
+	hot = "regions_unexplored:rocky_reef"
+[-----------------SHORE_BIOMES--------------------]
+	#beach_biomes
+	icy_beach_biome = "minecraft:snowy_beach"
+	cold_beach_biome = "regions_unexplored:gravel_beach"
+	neutral_beach_biome = "regions_unexplored:grassy_beach"
+	warm_beach_biome = "regions_unexplored:grassy_beach"
+	hot_beach_biome = "minecraft:beach"
+	#stone_beach_biomes
+	cold_stone_beach_biome = "minecraft:stony_shore"
+	hot_stone_beach_biome = "regions_unexplored:chalk_cliffs"
