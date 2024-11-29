@@ -1,0 +1,7 @@
+#.
+#URL to send data to.
+"Metrics Endpoint URL" = ""
+"Pack ID" = ""
+for this modpack
+"Pack ID" = ""
+"Update Rate" = 30
