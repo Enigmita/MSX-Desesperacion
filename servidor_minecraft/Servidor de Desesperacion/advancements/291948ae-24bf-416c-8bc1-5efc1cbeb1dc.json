@@ -3172,6 +3172,7 @@
       "saguaro_desert": "2024-11-28 12:21:53 +0000",
       "temperate_grove": "2024-12-02 12:34:22 +0000",
       "prairie": "2024-12-02 12:32:52 +0000",
+      "grassland": "2024-12-02 13:43:48 +0000",
       "redwoods": "2024-11-28 12:27:32 +0000"
     },
     "done": false
@@ -3190,6 +3191,7 @@
       "saguaro_desert": "2024-11-28 12:21:53 +0000",
       "temperate_grove": "2024-12-02 12:34:22 +0000",
       "prairie": "2024-12-02 12:32:52 +0000",
+      "grassland": "2024-12-02 13:43:48 +0000",
       "redwoods": "2024-11-28 12:27:32 +0000"
     },
     "done": false
@@ -9566,6 +9568,72 @@
   "croptopia:recipes/ham_sandwich": {
     "criteria": {
       "has_cooked_porkchop": "2024-12-02 13:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-02 13:37:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
+    "criteria": {
+      "has_golden_sword": "2024-12-02 13:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-02 13:37:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2024-12-02 13:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-02 13:40:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2024-12-02 13:40:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 13:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-02 13:40:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/potato": {
+    "criteria": {
+      "has_potato": "2024-12-02 13:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-02 13:40:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2024-12-02 13:42:08 +0000"
     },
     "done": true
   },

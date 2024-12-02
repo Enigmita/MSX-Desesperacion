@@ -11615,6 +11615,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/sweeper": {
+    "criteria": {
+      "requirement": "2024-12-02 13:29:32 +0000"
+    },
+    "done": true
+  },
   "brewery:main/wild_crops": {
     "criteria": {
       "hops_seeds": "2024-12-02 12:51:07 +0000"
@@ -11795,6 +11801,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-02 13:33:39 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/combat/silver_arrow": {
     "criteria": {
       "has_item": "2024-12-02 12:47:54 +0000"
@@ -11837,9 +11849,27 @@
     },
     "done": true
   },
+  "minecells:concierge": {
+    "criteria": {
+      "concierge_killed": "2024-12-02 13:38:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
     "criteria": {
       "has_steel_ingot": "2024-12-02 13:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_concierge": {
+    "criteria": {
+      "conjunctivius_killed": "2024-12-02 13:38:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2024-12-02 13:47:46 +0000"
     },
     "done": true
   },
@@ -11945,6 +11975,12 @@
     },
     "done": true
   },
+  "minecells:black_bridge": {
+    "criteria": {
+      "requirement": "2024-12-02 13:33:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/silver_storage_block": {
     "criteria": {
       "has_silver_ingot": "2024-12-02 12:47:54 +0000"
@@ -11975,6 +12011,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/inquisitor": {
+    "criteria": {
+      "requirement": "2024-12-02 13:30:29 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-02 13:22:10 +0000"
@@ -12002,6 +12044,12 @@
   "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2024-12-02 13:11:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2024-12-02 13:47:46 +0000"
     },
     "done": true
   },

@@ -2746,3 +2746,158 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [13:27:47] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of NsoEnigma accepted server config.
 [13:29:10] [Server thread/INFO]: [NsoEnigma: Teleported NsoEnigma to ivancito3008]
 [13:29:22] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:30:20] [Server thread/INFO]: ivancito3008 was slain by Inquisitor
+[13:30:23] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
+[13:30:47] [Server thread/INFO]: [NsoEnigma: Teleported ivancito3008 to NsoEnigma]
+[13:30:47] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
+[13:30:49] [Server thread/INFO]: ivancito3008 claimed a grave belonging to ivancito3008 at -55, 241, -1179, minecells:ramparts
+[13:31:04] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:31:44] [User Authenticator #10/INFO]: UUID of player subimqz is 1270eb5f-c912-4848-9e39-debec7cdbb09
+[13:31:44] [Server thread/INFO]: [Handshake] Sending channel query
+[13:31:44] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[13:31:44] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[13:31:44] [Server thread/INFO]: subimqz[/100.90.0.47:59593] logged in with entity id 1015767 at (-90.42784214300438, 100.0, 621.0470202149783)
+[13:31:44] [Server thread/INFO]: Sending server config values to client
+[13:31:45] [Server thread/INFO]: Syncing config to subimqz (1270eb5f-c912-4848-9e39-debec7cdbb09)
+[13:31:45] [Server thread/INFO]: Loading config from file...
+[13:31:45] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[13:31:45] [Server thread/INFO]: subimqz joined the game
+[13:31:45] [Server thread/INFO]: Updating all forceload tickets for 1270eb5f-c912-4848-9e39-debec7cdbb09
+[13:31:45] [Server thread/INFO]: PLAYER_JOIN
+[13:31:45] [Server thread/INFO]: add_player wand
+[13:31:45] [Server thread/INFO]: config sent
+[13:31:46] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[13:31:48] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: subimqz -> Global
+[13:31:48] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player subimqz. Claiming: GRAVE / Robbing: INVENTORY
+[13:31:48] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of subimqz accepted server config.
+[13:31:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13:32:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13:32:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2870ms or 57 ticks behind
+[13:32:33] [Server thread/INFO]: [NsoEnigma: Teleported NsoEnigma to ivancito3008]
+[13:32:37] [Server thread/INFO]: ivancito3008 was slain by Buzzcutter
+[13:32:38] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
+[13:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[13:32:46] [Server thread/INFO]: [NsoEnigma: Teleported ivancito3008 to NsoEnigma]
+[13:32:46] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
+[13:33:21] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
+[13:33:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13:33:29] [Server thread/INFO]: NsoEnigma has made the advancement [Finally, a moment of rest...]
+[13:33:29] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of NsoEnigma accepted server config.
+[13:33:39] [Server thread/INFO]: NsoEnigma has made the advancement [Take Aim]
+[13:33:57] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:34:02] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:34:03] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:34:03] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:34:37] [Server thread/INFO]: ivancito3008 was slain by Concierge
+[13:34:39] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
+[13:34:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[13:35:07] [Server thread/INFO]: subimqz has made the advancement [It Bites]
+[13:35:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[13:35:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2834ms or 56 ticks behind
+[13:35:30] [Server thread/INFO]: subimqz has made the advancement [Sky of Beginning]
+[13:35:43] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:35:43] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:35:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[13:36:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[13:36:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[13:36:39] [Server thread/INFO]: [NsoEnigma: Teleported ivancito3008 to NsoEnigma]
+[13:36:39] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
+[13:36:41] [Server thread/INFO]: ivancito3008 claimed a grave belonging to ivancito3008 at 23, 70, -964, minecells:black_bridge
+[13:36:51] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:36:52] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:37:01] [Server thread/INFO]: ivancito3008 was burnt to a crisp whilst fighting Concierge
+[13:37:03] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
+[13:37:03] [Server thread/INFO]: [NsoEnigma: Teleported ivancito3008 to NsoEnigma]
+[13:37:03] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
+[13:37:08] [Server thread/INFO]: ivancito3008 claimed a grave belonging to ivancito3008 at 31, 70, -996, minecells:black_bridge
+[13:37:28] [Server thread/INFO]: ivancito3008 was burnt to a crisp whilst fighting Concierge
+[13:37:29] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
+[13:37:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[13:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4944ms or 98 ticks behind
+[13:38:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13:38:26] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
+[13:38:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[13:38:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[13:38:59] [Server thread/INFO]: NsoEnigma has made the advancement [Steam rolled]
+[13:39:06] [Server thread/INFO]: [NsoEnigma: Teleported ivancito3008 to NsoEnigma]
+[13:39:06] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
+[13:39:24] [Server thread/INFO]: ivancito3008 claimed a grave belonging to ivancito3008 at 32, 70, -998, minecells:black_bridge
+[13:39:59] [Server thread/INFO]: subimqz has made the advancement [Disme A Dozen]
+[13:40:32] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:40:33] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:41:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[13:41:30] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of NsoEnigma accepted server config.
+[13:41:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[13:41:40] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
+[13:41:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2632ms or 52 ticks behind
+[13:42:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5192ms or 103 ticks behind
+[13:42:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7358ms or 147 ticks behind
+[13:43:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6698ms or 133 ticks behind
+[13:43:02] [Server thread/INFO]: ivancito3008 lost connection: Disconnected
+[13:43:02] [Server thread/INFO]: ivancito3008 left the game
+[13:43:02] [Server thread/INFO]: remove player wand
+[13:43:02] [Server thread/INFO]: Updating all forceload tickets for 854229f9-91e2-4afb-a7ec-1f9af9043dad
+[13:43:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3196ms or 63 ticks behind
+[13:43:26] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:43:32] [pool-12-thread-7/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / ctov:large/village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest]] from pos class_2338{x=75, y=79, z=2875}
+[13:43:35] [pool-12-thread-8/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian]] from pos class_2338{x=363, y=90, z=2837}
+[13:43:39] [pool-12-thread-7/ERROR]: Failed to generate road sign at class_2338{x=75, y=79, z=2875}: java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 65
+[13:43:39] [Server thread/ERROR]: Failed to generate road sign at class_2338{x=75, y=79, z=2875}: java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "foundVillages" is null
+[13:43:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10753ms or 215 ticks behind
+[13:44:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5634ms or 112 ticks behind
+[13:44:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4055ms or 81 ticks behind
+[13:44:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[13:45:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[13:45:08] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[13:45:08] [Server thread/INFO]: JakeRomas lost connection: Disconnected
+[13:45:08] [Server thread/INFO]: JakeRomas left the game
+[13:45:08] [Server thread/INFO]: remove player wand
+[13:45:08] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[13:46:22] [User Authenticator #11/INFO]: UUID of player JakeRomas is 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[13:46:22] [Server thread/INFO]: [Handshake] Sending channel query
+[13:46:22] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[13:46:22] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[13:46:23] [Server thread/INFO]: JakeRomas[/100.98.137.105:53100] logged in with entity id 1030557 at (150.51940239337378, 80.07810252024304, 2818.3841807756694)
+[13:46:23] [Server thread/INFO]: Sending server config values to client
+[13:46:23] [Server thread/INFO]: Syncing config to JakeRomas (291948ae-24bf-416c-8bc1-5efc1cbeb1dc)
+[13:46:23] [Server thread/INFO]: Loading config from file...
+[13:46:23] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[13:46:23] [Server thread/INFO]: JakeRomas joined the game
+[13:46:23] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[13:46:23] [Server thread/INFO]: PLAYER_JOIN
+[13:46:23] [Server thread/INFO]: add_player wand
+[13:46:23] [Server thread/INFO]: config sent
+[13:46:24] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[13:46:26] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: JakeRomas -> Global
+[13:46:26] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player JakeRomas. Claiming: GRAVE / Robbing: INVENTORY
+[13:46:27] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of JakeRomas accepted server config.
+[13:46:33] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[13:46:33] [Server thread/INFO]: JakeRomas lost connection: Disconnected
+[13:46:33] [Server thread/INFO]: JakeRomas left the game
+[13:46:33] [Server thread/INFO]: remove player wand
+[13:46:33] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[13:46:46] [Server thread/INFO]: subimqz has made the advancement [Isn't It Iron Pick]
+[13:47:34] [Server thread/WARN]: NsoEnigma moved wrongly!
+[13:47:35] [Server thread/WARN]: NsoEnigma moved wrongly!
+[13:47:54] [User Authenticator #12/INFO]: UUID of player JakeRomas is 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[13:47:54] [Server thread/INFO]: [Handshake] Sending channel query
+[13:47:54] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[13:47:54] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[13:47:54] [Server thread/INFO]: JakeRomas[/100.98.137.105:53242] logged in with entity id 1031502 at (150.51940239337378, 79.61394314528759, 2818.3841807756694)
+[13:47:54] [Server thread/INFO]: Sending server config values to client
+[13:47:54] [Server thread/INFO]: Syncing config to JakeRomas (291948ae-24bf-416c-8bc1-5efc1cbeb1dc)
+[13:47:54] [Server thread/INFO]: Loading config from file...
+[13:47:55] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[13:47:55] [Server thread/INFO]: JakeRomas joined the game
+[13:47:55] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[13:47:55] [Server thread/INFO]: PLAYER_JOIN
+[13:47:55] [Server thread/INFO]: add_player wand
+[13:47:55] [Server thread/INFO]: config sent
+[13:47:56] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[13:47:58] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: JakeRomas -> Global
+[13:47:58] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player JakeRomas. Claiming: GRAVE / Robbing: INVENTORY
+[13:48:00] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of JakeRomas accepted server config.
+[13:48:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[13:49:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
