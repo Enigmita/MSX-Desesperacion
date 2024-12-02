@@ -1,0 +1,15 @@
+{
+	id: "49e0bbbf-d6c6-498d-b554-9f411f5deba5"
+	type: "party"
+	owner: "945f4c6b-8722-4a3d-bb3b-1634774b094d"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "ayudita"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7FFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

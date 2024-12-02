@@ -608,6 +608,7 @@
       "minecraft:sparse_jungle": "2024-12-02 12:20:27 +0000",
       "minecraft:river": "2024-11-28 16:16:45 +0000",
       "minecraft:desert": "2024-11-28 13:14:54 +0000",
+      "minecraft:warm_ocean": "2024-12-02 12:27:39 +0000",
       "minecraft:savanna": "2024-11-28 13:49:59 +0000"
     },
     "done": false
@@ -959,35 +960,43 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2024-12-02 12:35:27 +0000",
       "dry_bushland": "2024-11-28 16:29:22 +0000",
       "prismachasm": "2024-11-28 16:15:44 +0000",
       "marsh": "2024-11-28 16:28:00 +0000",
+      "rocky_reef": "2024-12-02 12:26:45 +0000",
       "rocky_meadow": "2024-11-28 16:24:48 +0000",
       "tropical_river": "2024-11-28 14:11:08 +0000",
       "eucalyptus_forest": "2024-11-28 14:09:29 +0000",
       "magnolia_highlands": "2024-11-28 16:25:22 +0000",
       "outback": "2024-11-28 13:17:57 +0000",
+      "deciduous_forest": "2024-12-02 12:33:07 +0000",
       "bamboo_forest": "2024-11-28 16:17:10 +0000",
       "saguaro_desert": "2024-11-28 14:47:00 +0000",
       "baobab_savanna": "2024-11-28 16:30:10 +0000",
       "grassland": "2024-11-28 15:03:45 +0000",
+      "prairie": "2024-12-02 12:34:12 +0000",
       "redwoods": "2024-12-02 12:16:49 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2024-12-02 12:35:27 +0000",
       "dry_bushland": "2024-11-28 16:29:22 +0000",
       "marsh": "2024-11-28 16:28:00 +0000",
+      "rocky_reef": "2024-12-02 12:26:45 +0000",
       "rocky_meadow": "2024-11-28 16:24:48 +0000",
       "tropical_river": "2024-11-28 14:11:08 +0000",
       "eucalyptus_forest": "2024-11-28 14:09:29 +0000",
       "magnolia_highlands": "2024-11-28 16:25:22 +0000",
       "outback": "2024-11-28 13:17:57 +0000",
+      "deciduous_forest": "2024-12-02 12:33:07 +0000",
       "bamboo_forest": "2024-11-28 16:17:10 +0000",
       "saguaro_desert": "2024-11-28 14:47:00 +0000",
       "baobab_savanna": "2024-11-28 16:30:10 +0000",
       "grassland": "2024-11-28 15:03:45 +0000",
+      "prairie": "2024-12-02 12:34:12 +0000",
       "redwoods": "2024-12-02 12:16:49 +0000"
     },
     "done": false
@@ -1471,6 +1480,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-11-28 13:23:36 +0000",
+      "mushroom_stew": "2024-12-02 12:25:08 +0000",
       "rabbit_stew": "2024-11-28 16:33:55 +0000"
     },
     "done": false
@@ -7008,6 +7018,174 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2024-11-28 16:34:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/buzzcutter": {
+    "criteria": {
+      "requirement": "2024-12-02 12:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-02 12:36:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-02 12:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sand_from_cut_sandstone": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-02 12:36:06 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/piston": {
+    "criteria": {
+      "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-02 12:36:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-02 12:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/inquisitor": {
+    "criteria": {
+      "requirement": "2024-12-02 12:44:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/blackstone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-02 12:36:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-12-02 12:26:56 +0000"
     },
     "done": true
   },

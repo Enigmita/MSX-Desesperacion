@@ -1,0 +1,17 @@
+{
+	id: "1270eb5f-c912-4848-9e39-debec7cdbb09"
+	type: "player"
+	player_name: "subimqz"
+	ranks: {
+		1270eb5f-c912-4848-9e39-debec7cdbb09: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "subimqz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
