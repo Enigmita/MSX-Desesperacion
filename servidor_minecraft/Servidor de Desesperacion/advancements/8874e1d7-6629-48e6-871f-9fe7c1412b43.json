@@ -4662,6 +4662,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cookie": "2024-11-28 13:37:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-28 13:37:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 13:40:21 +0000"
@@ -4740,12 +4752,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cookie": "2024-11-28 13:37:25 +0000"
-    },
-    "done": false
-  },
   "stoneworks:recipes/building_blocks/cracked_granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 13:40:21 +0000"
@@ -4818,12 +4824,6 @@
     },
     "done": true
   },
-  "twigs:recipes/lamps/lamp": {
-    "criteria": {
-      "has_item": "2024-11-28 13:41:49 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/granite_plate_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 13:40:21 +0000"
@@ -4836,21 +4836,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/assembling_machine/lantern": {
-    "criteria": {
-      "has_torch": "2024-11-28 13:41:49 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 13:40:21 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
-    "criteria": {
-      "has_torch": "2024-11-28 13:41:49 +0000"
     },
     "done": true
   },
@@ -4902,12 +4890,6 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/spelunker_armor_helmet": {
-    "criteria": {
-      "has_torch": "2024-11-28 13:41:49 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-11-28 13:40:21 +0000"
@@ -4929,12 +4911,6 @@
   "stoneworks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 13:40:21 +0000"
-    },
-    "done": true
-  },
-  "oxidized:recipes/copper_lantern": {
-    "criteria": {
-      "has_copper_block": "2024-11-28 13:41:49 +0000"
     },
     "done": true
   },
@@ -4968,12 +4944,6 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
-    "criteria": {
-      "has_torch": "2024-11-28 13:41:49 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 13:40:21 +0000"
@@ -5001,12 +4971,6 @@
   "stoneworks:recipes/building_blocks/granite_plate_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 13:40:21 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
-    "criteria": {
-      "has_torch": "2024-11-28 13:41:49 +0000"
     },
     "done": true
   },
@@ -5070,12 +5034,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sconce": {
-    "criteria": {
-      "has_torch": "2024-11-28 13:41:49 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-11-28 13:40:21 +0000"
@@ -5085,12 +5043,6 @@
   "stoneworks:recipes/building_blocks/granite_shingles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 13:40:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-11-28 13:37:25 +0000"
     },
     "done": true
   },
@@ -5123,6 +5075,84 @@
       "has_granite": "2024-11-28 13:40:21 +0000"
     },
     "done": true
+  },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2024-11-28 13:41:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/lantern": {
+    "criteria": {
+      "has_torch": "2024-11-28 13:41:49 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2024-11-28 13:41:49 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/spelunker_armor_helmet": {
+    "criteria": {
+      "has_torch": "2024-11-28 13:41:49 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_lantern": {
+    "criteria": {
+      "has_copper_block": "2024-11-28 13:41:49 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2024-11-28 13:41:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2024-11-28 13:41:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-11-28 13:41:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tin_storage_block": {
+    "criteria": {
+      "has_raw_tin": "2024-12-02 23:29:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2024-12-02 23:29:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_tin": {
+    "criteria": {
+      "has_raw_tin_ores": "2024-12-02 23:29:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2024-12-02 23:29:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:root": {
+    "criteria": {
+      "crit_1": "2024-12-02 23:29:21 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
