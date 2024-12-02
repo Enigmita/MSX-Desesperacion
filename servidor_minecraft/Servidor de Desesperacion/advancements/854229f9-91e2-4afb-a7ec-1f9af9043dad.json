@@ -7021,6 +7021,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-02 13:03:13 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-02 12:36:05 +0000"
@@ -7057,6 +7063,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2024-12-02 13:05:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 13:05:48 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-02 12:36:05 +0000"
@@ -7081,6 +7099,30 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2024-12-02 13:05:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 13:05:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 13:05:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-02 13:05:48 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/buzzcutter": {
     "criteria": {
       "requirement": "2024-12-02 12:44:28 +0000"
@@ -7096,6 +7138,12 @@
   "minecells:unlock/kill_10_buzzcutters": {
     "criteria": {
       "buzzcutters_killed": "2024-12-02 12:50:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 13:05:48 +0000"
     },
     "done": true
   },
@@ -7123,6 +7171,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2024-12-02 13:05:48 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_15_undead_archers": {
+    "criteria": {
+      "undead_archers_killed": "2024-12-02 12:56:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/checker": {
     "criteria": {
       "has_cobblestone": "2024-12-02 12:36:05 +0000"
@@ -7147,9 +7207,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 13:05:48 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/piston": {
     "criteria": {
       "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecells:black_bridge": {
+    "criteria": {
+      "requirement": "2024-12-02 12:58:10 +0000"
     },
     "done": true
   },
