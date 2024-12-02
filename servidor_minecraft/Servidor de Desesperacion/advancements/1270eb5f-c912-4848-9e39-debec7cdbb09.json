@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2024-12-02 13:14:59 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/hammer": {
     "criteria": {
       "has_hammer": "2024-12-02 12:46:37 +0000"
@@ -212,6 +218,12 @@
   "mcdw:recipes/crossbows/crossbow_nautical_crossbow": {
     "criteria": {
       "has_gold_block": "2024-12-02 12:52:28 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-02 13:14:59 +0000"
     },
     "done": true
   },
@@ -733,6 +745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-02 13:07:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2024-12-02 12:54:51 +0000"
@@ -785,6 +803,12 @@
   "betternether:recipes/decorations/mushroom_fir_chair": {
     "criteria": {
       "has_stick": "2024-12-02 12:54:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2024-12-02 13:14:59 +0000"
     },
     "done": true
   },
@@ -1017,6 +1041,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-02 13:14:59 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_great_axeblade": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 12:46:37 +0000"
@@ -1155,6 +1185,18 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_ink_sac": "2024-12-02 13:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-02 13:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 12:46:37 +0000"
@@ -1206,6 +1248,12 @@
   "techreborn:recipes/centrifuge/spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-02 12:47:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2024-12-02 13:14:59 +0000"
     },
     "done": true
   },
@@ -1263,7 +1311,8 @@
       "eucalyptus_forest": "2024-12-02 12:46:06 +0000",
       "outback": "2024-12-02 12:45:48 +0000",
       "deciduous_forest": "2024-12-02 13:05:14 +0000",
-      "prairie": "2024-12-02 13:02:36 +0000"
+      "prairie": "2024-12-02 13:02:36 +0000",
+      "redwoods": "2024-12-02 13:08:29 +0000"
     },
     "done": false
   },
@@ -1358,6 +1407,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-02 13:14:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_taburet": {
     "criteria": {
       "has_stick": "2024-12-02 12:54:51 +0000"
@@ -1419,7 +1474,8 @@
       "eucalyptus_forest": "2024-12-02 12:46:06 +0000",
       "outback": "2024-12-02 12:45:48 +0000",
       "deciduous_forest": "2024-12-02 13:05:14 +0000",
-      "prairie": "2024-12-02 13:02:36 +0000"
+      "prairie": "2024-12-02 13:02:36 +0000",
+      "redwoods": "2024-12-02 13:08:29 +0000"
     },
     "done": false
   },
@@ -1470,6 +1526,12 @@
       "has_red_mushroom": "2024-12-02 12:46:38 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-02 13:07:27 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/daub": {
     "criteria": {
@@ -1865,6 +1927,12 @@
   "regions_unexplored:recipes/building_blocks/black_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-02 12:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-02 13:07:59 +0000"
     },
     "done": true
   },
@@ -2368,6 +2436,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-02 13:14:59 +0000"
+    },
+    "done": true
+  },
   "alloy_forgery:recipes/alloy_forgery/iron_block": {
     "criteria": {
       "has_the_recipe": "2024-12-02 12:46:37 +0000"
@@ -2452,6 +2526,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
+    "criteria": {
+      "has_rail": "2024-12-02 13:07:59 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/decorations/tag_smith_table": {
     "criteria": {
       "has_tag_c_iron_ingots": "2024-12-02 12:46:37 +0000"
@@ -2473,6 +2553,12 @@
   "regions_unexplored:recipes/redstone/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-02 12:47:46 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2024-12-02 13:14:59 +0000"
     },
     "done": true
   },
@@ -2711,6 +2797,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2024-12-02 13:14:59 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2024-12-02 12:58:53 +0000"
@@ -2804,6 +2896,12 @@
   "bewitchment:recipes/decorations/elder_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-02 12:46:37 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_ink_sac": "2024-12-02 13:14:59 +0000"
     },
     "done": true
   },
@@ -2953,11 +3051,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2024-12-02 13:09:34 +0000",
+      "minecraft:savanna_plateau": "2024-12-02 13:07:07 +0000",
+      "minecraft:sparse_jungle": "2024-12-02 13:09:05 +0000",
       "minecraft:river": "2024-12-02 13:02:37 +0000",
+      "minecraft:forest": "2024-12-02 13:09:07 +0000",
       "minecraft:desert": "2024-12-02 12:44:54 +0000",
-      "minecraft:savanna": "2024-12-02 12:59:22 +0000"
+      "minecraft:savanna": "2024-12-02 12:59:22 +0000",
+      "minecraft:plains": "2024-12-02 13:15:25 +0000"
     },
     "done": false
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2024-12-02 13:14:59 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/pulley": {
     "criteria": {
@@ -4877,6 +4986,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2024-12-02 13:14:59 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/glass_pickaxe": {
     "criteria": {
       "has_item": "2024-12-02 12:52:29 +0000"
@@ -5034,6 +5149,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 13:14:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitrocoal_fuel": {
     "criteria": {
       "has_glyceryl": "2024-12-02 12:44:53 +0000"
@@ -5169,6 +5290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-02 13:14:59 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-02 12:44:53 +0000"
@@ -5269,6 +5396,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 12:46:37 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_ink_sac": "2024-12-02 13:14:59 +0000"
     },
     "done": true
   },
@@ -5828,6 +5961,12 @@
     },
     "done": true
   },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2024-12-02 13:07:59 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_the_recipe": "2024-12-02 12:44:53 +0000"
@@ -5855,6 +5994,12 @@
   "mcdw:recipes/bows/bow_elite_power_bow": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 12:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-02 13:07:27 +0000"
     },
     "done": true
   },
@@ -6041,6 +6186,12 @@
   "mcda:recipes/base_armors/thief_armor_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 12:46:37 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-12-02 13:16:29 +0000"
     },
     "done": true
   },
