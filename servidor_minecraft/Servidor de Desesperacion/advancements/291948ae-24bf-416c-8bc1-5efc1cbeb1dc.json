@@ -605,17 +605,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-12-02 12:51:07 +0000",
       "minecraft:bamboo_jungle": "2024-11-28 12:32:52 +0000",
       "minecraft:wooded_badlands": "2024-11-28 12:44:44 +0000",
       "minecraft:badlands": "2024-11-28 12:47:24 +0000",
       "minecraft:savanna_plateau": "2024-12-02 12:32:05 +0000",
       "minecraft:stony_peaks": "2024-11-28 13:25:12 +0000",
+      "minecraft:dark_forest": "2024-12-02 12:48:26 +0000",
       "minecraft:sparse_jungle": "2024-11-28 12:28:00 +0000",
       "minecraft:river": "2024-11-28 12:48:47 +0000",
       "minecraft:lukewarm_ocean": "2024-12-02 12:31:47 +0000",
       "minecraft:forest": "2024-11-28 12:48:16 +0000",
       "minecraft:desert": "2024-11-28 12:14:41 +0000",
       "minecraft:ocean": "2024-12-02 12:34:31 +0000",
+      "minecraft:meadow": "2024-12-02 12:51:12 +0000",
       "minecraft:savanna": "2024-11-28 12:48:14 +0000",
       "minecraft:plains": "2024-11-28 12:48:57 +0000"
     },
@@ -3674,7 +3677,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-11-28 12:21:41 +0000"
+      "bread": "2024-11-28 12:21:41 +0000",
+      "carrot": "2024-12-02 12:51:00 +0000"
     },
     "done": false
   },
@@ -7418,9 +7422,27 @@
     },
     "done": true
   },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2024-12-02 12:54:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
+    "criteria": {
+      "has_iron_axe": "2024-12-02 12:54:39 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/royal_guard_armor_helmet": {
     "criteria": {
       "has_upgrade_item": "2024-12-02 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/promenade/sign_post_sakura": {
+    "criteria": {
+      "has_planks": "2024-12-02 12:54:03 +0000"
     },
     "done": true
   },
@@ -7430,9 +7452,69 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2024-12-02 12:53:26 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/button": {
+    "criteria": {
+      "has_planks": "2024-12-02 12:54:03 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/door": {
+    "criteria": {
+      "has_planks": "2024-12-02 12:54:03 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-02 12:54:03 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/gilded_glory_boots": {
     "criteria": {
       "has_upgrade_item": "2024-12-02 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-02 12:49:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2024-12-02 12:45:31 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-02 12:54:03 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-12-02 12:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-02 12:53:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 12:45:31 +0000"
     },
     "done": true
   },
@@ -7442,9 +7524,27 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/sakura/planks": {
+    "criteria": {
+      "has_logs": "2024-12-02 12:53:55 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_thatch/bamboo_thatch": {
+    "criteria": {
+      "has_bamboo_leaves": "2024-12-02 12:53:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
     "criteria": {
       "has_totem_of_undying": "2024-12-02 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/wood": {
+    "criteria": {
+      "has_log": "2024-12-02 12:53:55 +0000"
     },
     "done": true
   },
@@ -7454,15 +7554,45 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2024-12-02 12:53:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2024-12-02 12:45:31 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/fence": {
+    "criteria": {
+      "has_planks": "2024-12-02 12:54:03 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_evoker": "2024-12-02 12:41:32 +0000"
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 12:45:31 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/royal_guard_armor_boots": {
     "criteria": {
       "has_upgrade_item": "2024-12-02 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-12-02 12:53:26 +0000"
     },
     "done": true
   },
@@ -7472,9 +7602,63 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 12:45:31 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-02 12:47:44 +0000"
+    },
+    "done": true
+  },
   "estrogen:root": {
     "criteria": {
       "root": "2024-12-02 12:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-02 12:45:31 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-02 12:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-02 12:53:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 12:45:31 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/slab": {
+    "criteria": {
+      "has_planks": "2024-12-02 12:54:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2024-12-02 12:53:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2024-12-02 12:45:31 +0000"
     },
     "done": true
   },
@@ -7487,6 +7671,30 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-02 12:43:15 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/sign": {
+    "criteria": {
+      "has_planks": "2024-12-02 12:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-02 12:53:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 12:45:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_mat": {
+    "criteria": {
+      "has_bamboo": "2024-12-02 12:53:26 +0000"
     },
     "done": true
   },
@@ -7505,6 +7713,12 @@
   "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
       "has_gunpowder": "2024-12-02 12:40:45 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/stairs": {
+    "criteria": {
+      "has_planks": "2024-12-02 12:54:03 +0000"
     },
     "done": true
   },

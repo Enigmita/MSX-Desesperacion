@@ -7069,6 +7069,18 @@
     },
     "done": true
   },
+  "minecells:book/mobs/sweeper": {
+    "criteria": {
+      "requirement": "2024-12-02 12:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_10_shieldbearers": {
+    "criteria": {
+      "shieldbearers_killed": "2024-12-02 12:45:56 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/buzzcutter": {
     "criteria": {
       "requirement": "2024-12-02 12:44:28 +0000"
@@ -7078,6 +7090,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-02 12:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_10_buzzcutters": {
+    "criteria": {
+      "buzzcutters_killed": "2024-12-02 12:50:04 +0000"
     },
     "done": true
   },
@@ -7174,6 +7192,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2024-12-02 12:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_10_inquisitors": {
+    "criteria": {
+      "inquisitors_killed": "2024-12-02 12:54:06 +0000"
     },
     "done": true
   },

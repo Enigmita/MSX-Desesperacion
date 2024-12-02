@@ -2,9 +2,7 @@
 	id: "1270eb5f-c912-4848-9e39-debec7cdbb09"
 	type: "player"
 	player_name: "subimqz"
-	ranks: {
-		1270eb5f-c912-4848-9e39-debec7cdbb09: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "subimqz"
 		"ftbteams:description": ""

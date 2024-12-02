@@ -2,9 +2,7 @@
 	id: "945f4c6b-8722-4a3d-bb3b-1634774b094d"
 	type: "player"
 	player_name: "NsoEnigma"
-	ranks: {
-		945f4c6b-8722-4a3d-bb3b-1634774b094d: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "NsoEnigma"
 		"ftbteams:description": ""

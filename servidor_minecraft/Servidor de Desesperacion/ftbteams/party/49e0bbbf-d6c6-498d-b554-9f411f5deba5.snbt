@@ -2,14 +2,21 @@
 	id: "49e0bbbf-d6c6-498d-b554-9f411f5deba5"
 	type: "party"
 	owner: "945f4c6b-8722-4a3d-bb3b-1634774b094d"
-	ranks: { }
+	ranks: {
+		945f4c6b-8722-4a3d-bb3b-1634774b094d: "owner"
+		1270eb5f-c912-4848-9e39-debec7cdbb09: "member"
+	}
 	properties: {
 		"ftbteams:display_name": "ayudita"
 		"ftbteams:description": ""
-		"ftbteams:color": "#7FFF59"
+		"ftbteams:color": "#59FF6B"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
-	message_history: [ ]
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1733143564949L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"NsoEnigma\"}]}" }
+		{ from: "945f4c6b-8722-4a3d-bb3b-1634774b094d", date: 1733143570951L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"subimqz\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1733143579086L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"subimqz\"}]}" }
+	]
 	extra: { }
 }
