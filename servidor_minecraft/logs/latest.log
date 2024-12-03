@@ -2295,3 +2295,26 @@ BCLib - Nether BiomeSource (1cf2dfb2)
 [17:41:59] [Server thread/INFO]: Lauribluee has made the advancement [Sky of Beginning]
 [17:44:11] [Server thread/INFO]: Lauribluee has made the advancement [Best Friends Forever]
 [18:04:34] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
+[18:16:57] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Lauribluee accepted server config.
+[18:17:36] [Server thread/INFO]: Lauribluee lost connection: Disconnected
+[18:17:36] [Server thread/INFO]: Lauribluee left the game
+[18:17:36] [Server thread/INFO]: remove player wand
+[18:17:36] [Server thread/INFO]: Updating all forceload tickets for 6a6ead1b-7c30-4a0e-bec7-26138311f684
+[18:21:05] [User Authenticator #2/INFO]: UUID of player Lauribluee is 6a6ead1b-7c30-4a0e-bec7-26138311f684
+[18:21:05] [Server thread/INFO]: [Handshake] Sending channel query
+[18:21:05] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[18:21:05] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[18:21:05] [Server thread/INFO]: Lauribluee[/100.104.163.2:53540] logged in with entity id 7176 at (298.339336618154, 64.0, 286.2970460657365)
+[18:21:05] [Server thread/INFO]: Sending server config values to client
+[18:21:05] [Server thread/INFO]: Syncing config to Lauribluee (6a6ead1b-7c30-4a0e-bec7-26138311f684)
+[18:21:05] [Server thread/INFO]: Loading config from file...
+[18:21:05] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:21:05] [Server thread/INFO]: Lauribluee joined the game
+[18:21:05] [Server thread/INFO]: Updating all forceload tickets for 6a6ead1b-7c30-4a0e-bec7-26138311f684
+[18:21:05] [Server thread/INFO]: PLAYER_JOIN
+[18:21:05] [Server thread/INFO]: add_player wand
+[18:21:05] [Server thread/INFO]: config sent
+[18:21:06] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[18:21:06] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Lauribluee -> Global
+[18:21:06] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Lauribluee. Claiming: GRAVE / Robbing: INVENTORY
+[18:21:07] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Lauribluee accepted server config.
