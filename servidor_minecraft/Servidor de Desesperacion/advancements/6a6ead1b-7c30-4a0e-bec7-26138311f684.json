@@ -3897,6 +3897,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "palm_log": "2024-12-03 18:03:53 +0000",
       "eucalyptus_log": "2024-11-28 13:10:42 +0000",
       "redwood_log": "2024-11-28 16:36:56 +0000"
     },
@@ -4995,6 +4996,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/palm_beard_from_palm_log": {
+    "criteria": {
+      "has_log": "2024-12-03 18:03:53 +0000"
+    },
+    "done": true
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2024-12-03 17:41:59 +0000"
@@ -5091,6 +5098,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2024-12-03 18:01:11 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/red_dye_from_waratah": {
     "criteria": {
       "has_waratah": "2024-12-03 17:41:27 +0000"
@@ -5100,6 +5113,12 @@
   "naturalist:recipes/naturalist/bug_net": {
     "criteria": {
       "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/palm_shrub": {
+    "criteria": {
+      "has_palm_sapling": "2024-12-03 18:03:55 +0000"
     },
     "done": true
   },
@@ -5136,6 +5155,12 @@
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2024-12-03 17:41:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2024-12-03 18:03:53 +0000"
     },
     "done": true
   },
@@ -5187,6 +5212,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/palm_planks": {
+    "criteria": {
+      "has_logs": "2024-12-03 18:03:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2024-12-03 17:49:43 +0000"
@@ -5196,6 +5227,12 @@
   "twigs:recipes/bamboo_mat": {
     "criteria": {
       "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-03 18:01:11 +0000"
     },
     "done": true
   },
