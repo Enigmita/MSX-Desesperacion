@@ -2,9 +2,7 @@
 	id: "8874e1d7-6629-48e6-871f-9fe7c1412b43"
 	type: "player"
 	player_name: "Nemenixm"
-	ranks: {
-		8874e1d7-6629-48e6-871f-9fe7c1412b43: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Nemenixm"
 		"ftbteams:description": ""

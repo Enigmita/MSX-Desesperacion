@@ -2357,3 +2357,8 @@ BCLib - Nether BiomeSource (1cf2dfb2)
 [18:32:11] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player ivancito3008. Claiming: GRAVE / Robbing: INVENTORY
 [18:32:12] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
 [18:33:26] [Server thread/INFO]: Nemenixm claimed a grave belonging to Nemenixm at 252, -8, 227, minecraft:overworld
+[18:34:34] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
+[18:39:14] [Server thread/WARN]: Tried to over-fill a container
+[18:43:38] [Server thread/INFO]: Nemenixm has made the advancement [Tech Reborn]
+[18:44:02] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[18:44:15] [Server thread/INFO]: ivancito3008 claimed a grave belonging to ivancito3008 at 1203, 61, 1095, minecraft:overworld
