@@ -11265,6 +11265,7 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:gravel_desert": "2024-12-02 16:08:36 +0000",
+      "betternether:poor_nether_grasslands": "2024-12-03 09:18:50 +0000",
       "betternether:nether_grasslands": "2024-12-03 09:15:01 +0000"
     },
     "done": false
@@ -15606,27 +15607,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-03 09:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-03 09:07:10 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_pillar_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-03 09:07:33 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
-    "criteria": {
-      "has_glowstone_dust": "2024-12-03 09:09:46 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/assembling_machine/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_nether_bricks": "2024-12-03 09:07:33 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/lamp_led": {
-    "criteria": {
-      "has_glowstone_dust": "2024-12-03 09:09:46 +0000"
     },
     "done": true
   },
@@ -15708,18 +15709,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2024-12-03 09:09:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2024-12-03 09:07:10 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/brewing/nether_brewing_stand": {
     "criteria": {
       "has_nether_bricks": "2024-12-03 09:07:33 +0000"
@@ -15738,45 +15727,15 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/blaze": {
-    "criteria": {
-      "has_blaze_rod": "2024-12-03 09:12:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2024-12-03 09:09:46 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
-    "criteria": {
-      "has_item": "2024-12-03 09:12:12 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/nether_brick_paver_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-03 09:07:33 +0000"
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-12-03 09:12:12 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/nether_brick_shingle_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-03 09:07:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-12-03 09:08:06 +0000"
     },
     "done": true
   },
@@ -15804,12 +15763,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/glowstone_dust": {
-    "criteria": {
-      "has_glowstone_dust": "2024-12-03 09:09:46 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/nether_brick_tile_large_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2024-12-03 09:07:33 +0000"
@@ -15834,18 +15787,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2024-12-03 09:12:12 +0000"
-    },
-    "done": true
-  },
-  "mythicupgrades:recipes/misc/sapphire_upgrade_smithing_template": {
-    "criteria": {
-      "has_sapphire_upgrade_smithing_template": "2024-12-03 09:12:35 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2024-12-03 09:07:33 +0000"
@@ -15864,21 +15805,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/dragon_staff": {
-    "criteria": {
-      "has_item": "2024-12-03 09:12:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-12-03 09:07:33 +0000"
-    },
-    "done": true
-  },
-  "betternether:city": {
-    "criteria": {
-      "ncity": "2024-12-03 09:15:11 +0000"
     },
     "done": true
   },
@@ -15888,21 +15817,171 @@
     },
     "done": true
   },
-  "botania:recipes/building_blocks/blaze_block": {
-    "criteria": {
-      "has_item": "2024-12-03 09:12:12 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/cincinnasite_anvil": {
     "criteria": {
       "has_nether_bricks": "2024-12-03 09:07:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_logs": "2024-12-03 09:04:34 +0000"
+      "shot_arrow": "2024-12-03 09:08:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-03 09:09:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-03 09:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-03 09:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-03 09:09:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-03 09:09:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-03 09:12:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-03 09:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-03 09:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-03 09:12:12 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2024-12-03 09:12:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2024-12-03 09:12:12 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/sapphire_upgrade_smithing_template": {
+    "criteria": {
+      "has_sapphire_upgrade_smithing_template": "2024-12-03 09:12:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:city": {
+    "criteria": {
+      "ncity": "2024-12-03 09:15:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:flaming_ruby": {
+    "criteria": {
+      "flaming_ruby": "2024-12-03 09:18:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_nether_ruby": "2024-12-03 09:19:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_leggings": {
+    "criteria": {
+      "has_nether_ruby": "2024-12-03 09:19:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_boots": {
+    "criteria": {
+      "has_nether_ruby": "2024-12-03 09:19:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_helmet": {
+    "criteria": {
+      "has_nether_ruby": "2024-12-03 09:19:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_chestplate": {
+    "criteria": {
+      "has_nether_ruby": "2024-12-03 09:19:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_ore": {
+    "criteria": {
+      "ruby_ore": "2024-12-03 09:19:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_ruby": "2024-12-03 09:19:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_sword": {
+    "criteria": {
+      "has_nether_ruby": "2024-12-03 09:19:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_nether_ruby": "2024-12-03 09:19:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_nether_ruby": "2024-12-03 09:19:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_block": {
+    "criteria": {
+      "has_nether_ruby": "2024-12-03 09:19:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/stalagnate_wall": {
+    "criteria": {
+      "has_stalagnate_fence": "2024-12-03 09:26:47 +0000"
     },
     "done": true
   },

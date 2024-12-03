@@ -2295,3 +2295,61 @@ BCLib - Nether BiomeSource (2d8fd511)
 [09:15:11] [Server thread/INFO]: JakeRomas has made the advancement [A glorious Past]
 [09:18:05] [Server thread/INFO]: JakeRomas has reached the goal [Embers of the Nether]
 [09:19:46] [Server thread/INFO]: JakeRomas has made the advancement [Ruby Ore]
+[09:23:16] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[09:23:16] [Server thread/INFO]: JakeRomas lost connection: Disconnected
+[09:23:16] [Server thread/INFO]: JakeRomas left the game
+[09:23:16] [Server thread/INFO]: remove player wand
+[09:23:16] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[09:23:16] [Server thread/WARN]: handleDisconnection() called twice
+[09:24:47] [User Authenticator #2/INFO]: UUID of player JakeRomas is 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[09:24:47] [Server thread/INFO]: [Handshake] Sending channel query
+[09:24:48] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[09:24:48] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[09:24:48] [Server thread/INFO]: JakeRomas[/100.98.137.105:65283] logged in with entity id 5320 at (234.32075152252096, 45.0, 240.5126385587225)
+[09:24:48] [Server thread/INFO]: Sending server config values to client
+[09:24:48] [Server thread/INFO]: Syncing config to JakeRomas (291948ae-24bf-416c-8bc1-5efc1cbeb1dc)
+[09:24:48] [Server thread/INFO]: Loading config from file...
+[09:24:48] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[09:24:48] [Server thread/INFO]: JakeRomas joined the game
+[09:24:48] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[09:24:48] [Server thread/INFO]: PLAYER_JOIN
+[09:24:48] [Server thread/INFO]: add_player wand
+[09:24:48] [Server thread/INFO]: config sent
+[09:24:49] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[09:24:51] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: JakeRomas -> Global
+[09:24:51] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player JakeRomas. Claiming: GRAVE / Robbing: INVENTORY
+[09:24:53] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of JakeRomas accepted server config.
+[09:26:52] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:26:53] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:28:05] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:28:05] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:28:07] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:28:07] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:28:08] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:28:11] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:28:11] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:28:11] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:28:11] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:29:39] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:30:42] [Server thread/INFO]: No return portal found
+[09:30:42] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of JakeRomas accepted server config.
+[09:30:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9430ms or 188 ticks behind
+[09:31:08] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[09:31:19] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[09:31:25] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:large/village_underground], ResourceKey[minecraft:worldgen/structure / ctov:large/village_dark_forest]] from pos class_2338{x=1835, y=69, z=2443}
+[09:31:25] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=1835, y=69, z=2442} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[09:31:25] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=1835, y=69, z=2442}
+[09:31:25] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=1835, y=68, z=2442} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[09:31:25] [Server thread/WARN]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location class_2338{x=1835, y=68, z=2442}
+[09:31:25] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=1835, y=69, z=2443} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[09:31:25] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=1835, y=69, z=2443}
+[09:31:29] [Worker-Main-33/WARN]: Tried to access a block entity before it was created. class_2338{x=1553, y=66, z=2395}
+[09:31:29] [Worker-Main-33/WARN]: Tried to access a block entity before it was created. class_2338{x=1553, y=66, z=2395}
+[09:31:35] [Worker-Main-45/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[09:31:39] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[09:31:47] [Worker-Main-33/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[09:31:49] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:31:50] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:31:50] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:31:51] [Server thread/WARN]: JakeRomas moved wrongly!
