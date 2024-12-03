@@ -16436,6 +16436,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab": {
+    "criteria": {
+      "has_item": "2024-12-03 11:14:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-03 11:08:02 +0000"
@@ -16460,6 +16466,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-03 11:14:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_slab": {
     "criteria": {
       "has_rubber_planks": "2024-12-03 11:04:00 +0000"
@@ -16469,6 +16481,12 @@
   "betterend:recipes/misc/andesite_pedestal": {
     "criteria": {
       "has_polished_andesite": "2024-12-03 11:08:02 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-03 11:14:43 +0000"
     },
     "done": true
   },
@@ -16514,6 +16532,18 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs": {
+    "criteria": {
+      "has_item": "2024-12-03 11:14:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-03 11:14:43 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/charcoal_block": {
     "criteria": {
       "has_charcoal": "2024-12-03 11:11:21 +0000"
@@ -16529,6 +16559,18 @@
   "techreborn:recipes/crafting_table/misc_block/rubber_door": {
     "criteria": {
       "has_rubber_planks": "2024-12-03 11:04:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall": {
+    "criteria": {
+      "has_item": "2024-12-03 11:14:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cracked_cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2024-12-03 11:14:43 +0000"
     },
     "done": true
   },
