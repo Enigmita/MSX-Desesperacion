@@ -16436,6 +16436,102 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-03 11:08:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_trapdoor": {
+    "criteria": {
+      "has_rubber_planks": "2024-12-03 11:04:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_pressure_plate": {
+    "criteria": {
+      "has_rubber_planks": "2024-12-03 11:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-03 11:08:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_slab": {
+    "criteria": {
+      "has_rubber_planks": "2024-12-03 11:04:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_pedestal": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-03 11:08:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_fence": {
+    "criteria": {
+      "has_rubber_planks": "2024-12-03 11:04:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_button": {
+    "criteria": {
+      "has_rubber_planks": "2024-12-03 11:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-03 11:08:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_fence_gate": {
+    "criteria": {
+      "has_rubber_planks": "2024-12-03 11:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-03 11:08:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_poppy_bush": {
+    "criteria": {
+      "has_poppy_bush": "2024-12-03 11:07:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/techreborn/sign_post_rubber": {
+    "criteria": {
+      "has_planks": "2024-12-03 11:04:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/charcoal_block": {
+    "criteria": {
+      "has_charcoal": "2024-12-03 11:11:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_stair": {
+    "criteria": {
+      "has_rubber_planks": "2024-12-03 11:04:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_door": {
+    "criteria": {
+      "has_rubber_planks": "2024-12-03 11:04:00 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/paper_from_written_book": {
     "criteria": {
       "has_written_book": "2024-12-03 11:01:24 +0000"
