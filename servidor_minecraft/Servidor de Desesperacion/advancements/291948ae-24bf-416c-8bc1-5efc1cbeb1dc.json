@@ -624,6 +624,7 @@
       "minecraft:jungle": "2024-12-02 14:58:52 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-03 09:36:20 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-02 14:52:25 +0000",
+      "minecraft:deep_dark": "2024-12-03 10:39:46 +0000",
       "minecraft:meadow": "2024-12-02 12:51:12 +0000",
       "minecraft:savanna": "2024-11-28 12:48:14 +0000",
       "minecraft:plains": "2024-11-28 12:48:57 +0000"
@@ -16383,6 +16384,48 @@
   "botania:recipes/decorations/brewery": {
     "criteria": {
       "has_alt_item": "2024-12-03 10:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-03 10:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-03 10:40:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-03 10:40:06 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-03 10:39:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-03 10:40:06 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2024-12-03 10:40:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-03 10:40:06 +0000"
     },
     "done": true
   },
