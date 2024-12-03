@@ -2506,3 +2506,145 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [10:42:46] [Server thread/WARN]: JakeRomas moved wrongly!
 [10:42:47] [Server thread/WARN]: JakeRomas moved wrongly!
 [10:42:49] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:02] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:04] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:37] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:38] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:39] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:39] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:39] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:39] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:39] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:39] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:39] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:39] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:39] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:42] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:44] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:45] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:47] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:44:51] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:45:00] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:45:00] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:45:00] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:45:00] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:45:01] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:45:01] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:45:01] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:45:01] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:45:01] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:45:04] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:45:04] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:45:05] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:45:13] [Server thread/INFO]: A large Graveyard horde of undead appeared at 57 123 741.
+[10:45:15] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[10:45:15] [Server thread/INFO]: JakeRomas lost connection: Disconnected
+[10:45:15] [Server thread/INFO]: JakeRomas left the game
+[10:45:15] [Server thread/INFO]: remove player wand
+[10:45:15] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[10:45:15] [Server thread/WARN]: handleDisconnection() called twice
+[10:46:24] [User Authenticator #7/INFO]: UUID of player JakeRomas is 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[10:46:24] [Server thread/INFO]: [Handshake] Sending channel query
+[10:46:24] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[10:46:24] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[10:46:24] [Server thread/INFO]: JakeRomas[/100.98.137.105:53115] logged in with entity id 40379 at (33.33125579618961, -24.0, 781.0713825650473)
+[10:46:24] [Server thread/INFO]: Sending server config values to client
+[10:46:24] [Server thread/INFO]: Syncing config to JakeRomas (291948ae-24bf-416c-8bc1-5efc1cbeb1dc)
+[10:46:24] [Server thread/INFO]: Loading config from file...
+[10:46:25] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[10:46:25] [Server thread/INFO]: JakeRomas joined the game
+[10:46:25] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[10:46:25] [Server thread/INFO]: PLAYER_JOIN
+[10:46:25] [Server thread/INFO]: add_player wand
+[10:46:25] [Server thread/INFO]: config sent
+[10:46:26] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[10:46:28] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: JakeRomas -> Global
+[10:46:28] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player JakeRomas. Claiming: GRAVE / Robbing: INVENTORY
+[10:46:29] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of JakeRomas accepted server config.
+[10:46:48] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:46:48] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:46:48] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:46:50] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:47:34] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:48:15] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:48:22] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:48:46] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:48:46] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:48:46] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:48:46] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:48:46] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:48:46] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:48:46] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:48:48] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:02] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:02] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:04] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:04] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:04] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:04] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:04] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:05] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:05] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:05] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:05] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:05] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:05] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:05] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:06] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:06] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:46] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:49:59] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[10:49:59] [Server thread/INFO]: JakeRomas lost connection: Disconnected
+[10:49:59] [Server thread/INFO]: JakeRomas left the game
+[10:49:59] [Server thread/INFO]: remove player wand
+[10:49:59] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[10:51:24] [User Authenticator #8/INFO]: UUID of player JakeRomas is 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[10:51:24] [Server thread/INFO]: [Handshake] Sending channel query
+[10:51:24] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[10:51:24] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[10:51:25] [Server thread/INFO]: JakeRomas[/100.98.137.105:53361] logged in with entity id 41036 at (8.790031252034241, -51.922538041812885, 799.4910191821315)
+[10:51:25] [Server thread/INFO]: Sending server config values to client
+[10:51:25] [Server thread/INFO]: Syncing config to JakeRomas (291948ae-24bf-416c-8bc1-5efc1cbeb1dc)
+[10:51:25] [Server thread/INFO]: Loading config from file...
+[10:51:25] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[10:51:25] [Server thread/INFO]: JakeRomas joined the game
+[10:51:25] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[10:51:25] [Server thread/INFO]: PLAYER_JOIN
+[10:51:25] [Server thread/INFO]: add_player wand
+[10:51:25] [Server thread/INFO]: config sent
+[10:51:26] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[10:51:28] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: JakeRomas -> Global
+[10:51:28] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player JakeRomas. Claiming: GRAVE / Robbing: INVENTORY
+[10:51:30] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of JakeRomas accepted server config.
+[10:52:00] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:52:00] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:52:00] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:52:13] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:52:13] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:52:26] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[10:52:26] [Server thread/INFO]: JakeRomas lost connection: Disconnected
+[10:52:26] [Server thread/INFO]: JakeRomas left the game
+[10:52:26] [Server thread/INFO]: remove player wand
+[10:52:26] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[10:53:32] [User Authenticator #9/INFO]: UUID of player JakeRomas is 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[10:53:32] [Server thread/INFO]: [Handshake] Sending channel query
+[10:53:32] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[10:53:32] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[10:53:33] [Server thread/INFO]: JakeRomas[/100.98.137.105:53571] logged in with entity id 41338 at (19.938285661655694, -50.922538041812885, 784.6907838503909)
+[10:53:33] [Server thread/INFO]: Sending server config values to client
+[10:53:33] [Server thread/INFO]: Syncing config to JakeRomas (291948ae-24bf-416c-8bc1-5efc1cbeb1dc)
+[10:53:33] [Server thread/INFO]: Loading config from file...
+[10:53:33] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[10:53:33] [Server thread/INFO]: JakeRomas joined the game
+[10:53:33] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[10:53:33] [Server thread/INFO]: PLAYER_JOIN
+[10:53:33] [Server thread/INFO]: add_player wand
+[10:53:33] [Server thread/INFO]: config sent
+[10:53:34] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[10:53:36] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: JakeRomas -> Global
+[10:53:36] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player JakeRomas. Claiming: GRAVE / Robbing: INVENTORY
+[10:53:37] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of JakeRomas accepted server config.
+[10:54:09] [Server thread/WARN]: JakeRomas moved wrongly!
