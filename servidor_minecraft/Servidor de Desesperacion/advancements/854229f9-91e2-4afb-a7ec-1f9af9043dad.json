@@ -615,6 +615,8 @@
       "minecraft:desert": "2024-11-28 13:14:54 +0000",
       "minecraft:ocean": "2024-12-02 19:04:37 +0000",
       "minecraft:warm_ocean": "2024-12-02 12:27:39 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-02 23:50:36 +0000",
+      "minecraft:meadow": "2024-12-02 23:54:37 +0000",
       "minecraft:savanna": "2024-11-28 13:49:59 +0000",
       "minecraft:plains": "2024-12-02 18:58:51 +0000"
     },
@@ -973,10 +975,12 @@
       "muddy_river": "2024-12-02 19:26:15 +0000",
       "prismachasm": "2024-11-28 16:15:44 +0000",
       "marsh": "2024-11-28 16:28:00 +0000",
+      "willow_forest": "2024-12-02 23:52:40 +0000",
       "rocky_reef": "2024-12-02 12:26:45 +0000",
       "grassy_beach": "2024-12-02 19:09:19 +0000",
       "rocky_meadow": "2024-11-28 16:24:48 +0000",
       "blackwood_taiga": "2024-12-02 19:22:06 +0000",
+      "highland_fields": "2024-12-02 23:52:57 +0000",
       "maple_forest": "2024-12-02 19:26:27 +0000",
       "tropical_river": "2024-11-28 14:11:08 +0000",
       "eucalyptus_forest": "2024-11-28 14:09:29 +0000",
@@ -991,7 +995,8 @@
       "grassland": "2024-11-28 15:03:45 +0000",
       "prairie": "2024-12-02 12:34:12 +0000",
       "gravel_beach": "2024-12-02 19:28:13 +0000",
-      "redwoods": "2024-12-02 12:16:49 +0000"
+      "redwoods": "2024-12-02 12:16:49 +0000",
+      "lupine_plains": "2024-12-02 23:51:54 +0000"
     },
     "done": false
   },
@@ -1002,10 +1007,12 @@
       "pine_taiga": "2024-12-02 19:10:12 +0000",
       "muddy_river": "2024-12-02 19:26:15 +0000",
       "marsh": "2024-11-28 16:28:00 +0000",
+      "willow_forest": "2024-12-02 23:52:40 +0000",
       "rocky_reef": "2024-12-02 12:26:45 +0000",
       "grassy_beach": "2024-12-02 19:09:19 +0000",
       "rocky_meadow": "2024-11-28 16:24:48 +0000",
       "blackwood_taiga": "2024-12-02 19:22:06 +0000",
+      "highland_fields": "2024-12-02 23:52:57 +0000",
       "maple_forest": "2024-12-02 19:26:27 +0000",
       "tropical_river": "2024-11-28 14:11:08 +0000",
       "eucalyptus_forest": "2024-11-28 14:09:29 +0000",
@@ -1020,7 +1027,8 @@
       "grassland": "2024-11-28 15:03:45 +0000",
       "prairie": "2024-12-02 12:34:12 +0000",
       "gravel_beach": "2024-12-02 19:28:13 +0000",
-      "redwoods": "2024-12-02 12:16:49 +0000"
+      "redwoods": "2024-12-02 12:16:49 +0000",
+      "lupine_plains": "2024-12-02 23:51:54 +0000"
     },
     "done": false
   },
@@ -1489,6 +1497,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-02 23:52:43 +0000",
       "minecraft:skeleton": "2024-11-28 14:16:47 +0000",
       "minecraft:spider": "2024-11-28 14:15:17 +0000",
       "minecraft:creeper": "2024-11-28 14:47:26 +0000",
@@ -10086,51 +10095,15 @@
     },
     "done": true
   },
-  "betternether:recipes/misc/wall_mushroom_brown": {
+  "techreborn:recipes/blast_furnace/iron_nugget_from_shovel": {
     "criteria": {
-      "has_brown_mushroom": "2024-12-02 23:26:50 +0000"
+      "has_iron_shovel": "2024-12-02 23:25:36 +0000"
     },
     "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tin_storage_block": {
-    "criteria": {
-      "has_raw_tin": "2024-12-02 23:32:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "brown_mushroom": "2024-12-02 23:26:54 +0000"
-    },
-    "done": false
   },
   "croptopia:recipes/roasted_nuts_from_campfire": {
     "criteria": {
       "has_nut": "2024-12-02 23:26:30 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/lamps/warped_shroomlamp": {
-    "criteria": {
-      "has_item": "2024-12-02 23:28:53 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_tin_ores": {
-    "criteria": {
-      "has_tag_c_raw_tin_ores": "2024-12-02 23:32:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2024-12-02 23:30:35 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/lamps/crimson_shroomlamp": {
-    "criteria": {
-      "has_item": "2024-12-02 23:28:53 +0000"
     },
     "done": true
   },
@@ -10152,77 +10125,60 @@
     },
     "done": true
   },
-  "brewery:recipes/wooden_brewingstation": {
-    "criteria": {
-      "has_furnace": "2024-12-02 23:31:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-02 23:33:24 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:mycologist": {
-    "criteria": {
-      "blue_bioshroom": "2024-12-02 23:28:47 +0000"
-    },
-    "done": false
-  },
-  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
-    "criteria": {
-      "has_soul_lantern": "2024-12-02 23:35:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2024-12-02 23:33:24 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/iron_nugget_from_shovel": {
-    "criteria": {
-      "has_iron_shovel": "2024-12-02 23:25:36 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2024-12-02 23:28:53 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/misc/walnut_sapling": {
     "criteria": {
       "has_walnut": "2024-12-02 23:26:30 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/raw_lead": {
+  "croptopia:recipes/roasted_smoking": {
     "criteria": {
-      "has_raw_lead_ores": "2024-12-02 23:32:28 +0000"
+      "has_nut": "2024-12-02 23:26:30 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/pig": {
+  "croptopia:recipes/nutty_cookie": {
     "criteria": {
-      "has_porkchop": "2024-12-02 23:30:35 +0000"
+      "has_nuts": "2024-12-02 23:26:30 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/stone_lamp": {
+  "croptopia:recipes/roasted_nuts": {
     "criteria": {
-      "has_shroomlight": "2024-12-02 23:28:53 +0000"
+      "has_nut": "2024-12-02 23:26:30 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/pork_and_beans": {
+  "croptopia:recipes/nougat": {
     "criteria": {
-      "has_pork": "2024-12-02 23:30:35 +0000"
+      "has_nuts": "2024-12-02 23:26:30 +0000",
+      "has_the_recipe": "2024-12-02 23:26:30 +0000"
     },
     "done": true
+  },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-02 23:26:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/brown_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-02 23:26:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "brown_mushroom": "2024-12-02 23:26:54 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "blue_bioshroom": "2024-12-02 23:28:47 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:recipes/misc/blue_dye_from_blue_bioshroom": {
     "criteria": {
@@ -10233,6 +10189,72 @@
   "regions_unexplored:recipes/building_blocks/blue_bioshroom_block": {
     "criteria": {
       "has_blue_bioshroom": "2024-12-02 23:28:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2024-12-02 23:28:47 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/warped_shroomlamp": {
+    "criteria": {
+      "has_item": "2024-12-02 23:28:53 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/crimson_shroomlamp": {
+    "criteria": {
+      "has_item": "2024-12-02 23:28:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-12-02 23:28:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-12-02 23:28:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-12-02 23:28:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-12-02 23:28:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
+    "criteria": {
+      "has_dark_oak_sapling": "2024-12-02 23:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-02 23:30:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2024-12-02 23:30:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2024-12-02 23:30:35 +0000"
     },
     "done": true
   },
@@ -10254,33 +10276,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2024-12-02 23:33:24 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/deepslate_lamp": {
-    "criteria": {
-      "has_shroomlight": "2024-12-02 23:28:53 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/roasted_smoking": {
-    "criteria": {
-      "has_nut": "2024-12-02 23:26:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/raw_tin": {
-    "criteria": {
-      "has_raw_tin_ores": "2024-12-02 23:32:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-02 23:30:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2024-12-02 23:30:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 23:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-02 23:30:35 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2024-12-02 23:31:57 +0000"
     },
     "done": true
   },
@@ -10296,45 +10318,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/nutty_cookie": {
-    "criteria": {
-      "has_nuts": "2024-12-02 23:26:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
-    "criteria": {
-      "has_tag_c_raw_lead_ores": "2024-12-02 23:32:28 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
-    "criteria": {
-      "has_dark_oak_sapling": "2024-12-02 23:30:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2024-12-02 23:33:24 +0000"
-    },
-    "done": true
-  },
   "oxidized:recipes/copper_kiln": {
     "criteria": {
       "has_copper_block": "2024-12-02 23:31:57 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap": {
-    "criteria": {
-      "has_porkchop": "2024-12-02 23:30:35 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackstone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2024-12-02 23:28:53 +0000"
     },
     "done": true
   },
@@ -10344,15 +10330,21 @@
     },
     "done": true
   },
-  "croptopia:recipes/roasted_nuts": {
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tin_storage_block": {
     "criteria": {
-      "has_nut": "2024-12-02 23:26:30 +0000"
+      "has_raw_tin": "2024-12-02 23:32:16 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
+  "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_tin_ores": {
     "criteria": {
-      "has_tag_c_raw_lead_ores": "2024-12-02 23:32:28 +0000"
+      "has_tag_c_raw_tin_ores": "2024-12-02 23:32:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_tin": {
+    "criteria": {
+      "has_raw_tin_ores": "2024-12-02 23:32:16 +0000"
     },
     "done": true
   },
@@ -10362,34 +10354,27 @@
     },
     "done": true
   },
-  "croptopia:recipes/nougat": {
-    "criteria": {
-      "has_nuts": "2024-12-02 23:26:30 +0000",
-      "has_the_recipe": "2024-12-02 23:26:30 +0000"
-    },
-    "done": true
-  },
   "techreborn:root": {
     "criteria": {
       "crit_1": "2024-12-02 23:32:16 +0000"
     },
     "done": false
   },
-  "farmersdelight:recipes/cooking/noodle_soup": {
+  "techreborn:recipes/centrifuge/raw_lead": {
     "criteria": {
-      "has_any_ingredient": "2024-12-02 23:30:35 +0000"
+      "has_raw_lead_ores": "2024-12-02 23:32:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
     "criteria": {
-      "has_porkchop": "2024-12-02 23:30:35 +0000"
+      "has_tag_c_raw_lead_ores": "2024-12-02 23:32:28 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
     "criteria": {
-      "has_blue_bioshroom": "2024-12-02 23:28:47 +0000"
+      "has_tag_c_raw_lead_ores": "2024-12-02 23:32:28 +0000"
     },
     "done": true
   },
@@ -10399,9 +10384,165 @@
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/brown_mushroom": {
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
-      "has_brown_mushroom": "2024-12-02 23:26:50 +0000"
+      "has_any_ingredient": "2024-12-02 23:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-02 23:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-02 23:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-02 23:33:24 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_lantern": "2024-12-02 23:35:20 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2024-12-02 23:39:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-02 23:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-02 23:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-02 23:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-02 23:49:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/electrum_nugget": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-02 23:53:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/electrum_plate": {
+    "criteria": {
+      "has_tag_c_electrum_ingots": "2024-12-02 23:53:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/electrum_storage_block": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-02 23:53:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/electrum_dust": {
+    "criteria": {
+      "has_tag_c_electrum_ingots": "2024-12-02 23:53:25 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2024-12-02 23:53:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-03 00:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-03 00:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-03 00:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-03 00:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-03 00:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-03 00:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-03 00:01:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-03 00:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-03 00:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-03 00:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-03 00:01:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-03 00:01:06 +0000"
     },
     "done": true
   },

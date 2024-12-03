@@ -3707,6 +3707,7 @@
       "cooked_beef": "2024-12-02 16:46:22 +0000",
       "baked_potato": "2024-12-02 17:32:23 +0000",
       "apple": "2024-12-02 16:52:39 +0000",
+      "pumpkin_pie": "2024-12-03 09:05:32 +0000",
       "bread": "2024-11-28 12:21:41 +0000",
       "melon_slice": "2024-12-02 13:12:25 +0000",
       "golden_carrot": "2024-12-02 15:32:22 +0000",
@@ -14922,9 +14923,156 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/apothecary_deepslate": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "has_item": "2024-12-02 20:59:59 +0000"
+      "has_salmon": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/angler_pottery_sherd": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
+    "criteria": {
+      "has_seagrass": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sponge_piece_from_cod": {
+    "criteria": {
+      "has_cod": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
+    "criteria": {
+      "has_grass_variant": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/blue_dye_from_tube_coral": {
+    "criteria": {
+      "has_tube_coral": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-02 20:45:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_horn_coral": {
+    "criteria": {
+      "has_horn_coral": "2024-12-02 20:45:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2024-12-02 20:58:09 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2024-12-02 20:58:09 +0000",
+      "silicon": "2024-12-02 20:58:41 +0000",
+      "engineering": "2024-12-02 20:58:18 +0000",
+      "logic": "2024-12-02 20:58:24 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "double_flower": "2024-12-02 20:59:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue_double": {
+    "criteria": {
+      "has_item": "2024-12-02 20:59:01 +0000"
     },
     "done": true
   },
@@ -14934,9 +15082,81 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
+  "botania:recipes/tools/flower_bag": {
     "criteria": {
-      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
+      "has_item": "2024-12-02 20:59:50 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-12-02 20:59:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-02 20:59:50 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-12-02 20:59:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue": {
+    "criteria": {
+      "has_item": "2024-12-02 20:59:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2024-12-02 20:59:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2024-12-02 20:59:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2024-12-02 20:59:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2024-12-02 20:59:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_blue_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-02 20:59:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2024-12-02 20:59:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_light_blue": {
+    "criteria": {
+      "has_item": "2024-12-02 20:59:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/light_blue_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-02 20:59:59 +0000"
     },
     "done": true
   },
@@ -14958,51 +15178,9 @@
     },
     "done": true
   },
-  "botania:recipes/tools/flower_bag": {
-    "criteria": {
-      "has_item": "2024-12-02 20:59:50 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/nether_eye": {
-    "criteria": {
-      "nether_eye": "2024-12-02 21:02:13 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
-    "criteria": {
-      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
-    "criteria": {
-      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-02 21:23:23 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/iron_bulb_lantern_light_blue": {
     "criteria": {
       "has_light_blue_dye": "2024-12-02 21:00:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/angler_pottery_sherd": {
-    "criteria": {
-      "has_fishing_rod": "2024-12-02 20:45:44 +0000"
     },
     "done": true
   },
@@ -15024,69 +15202,9 @@
     },
     "done": true
   },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2024-12-02 20:59:50 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/light_blue_shiny_flower": {
-    "criteria": {
-      "has_item": "2024-12-02 20:59:50 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/light_blue_terracotta_from_terracotta_with_light_blue_dye": {
     "criteria": {
       "has_light_blue_dye": "2024-12-02 21:00:03 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2024-12-02 21:23:23 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/red_garnet_storage_block": {
-    "criteria": {
-      "has_red_garnet_gem": "2024-12-02 21:21:10 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
-    "criteria": {
-      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_heavenly_rider": {
-    "criteria": {
-      "location0": "2024-12-02 21:01:00 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
-    "criteria": {
-      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/raw_iron": {
-    "criteria": {
-      "has_tag_c_iron_ores": "2024-12-02 21:22:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2024-12-02 20:45:44 +0000"
     },
     "done": true
   },
@@ -15096,21 +15214,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/dispenser_minecart": {
-    "criteria": {
-      "has_dispenser": "2024-12-02 21:21:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_light_blue_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-02 21:00:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/dreamwood_wand": {
-    "criteria": {
-      "has_item": "2024-12-02 20:59:59 +0000"
     },
     "done": true
   },
@@ -15120,102 +15226,15 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
-    "criteria": {
-      "press": "2024-12-02 20:58:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_impact_hammer": {
-    "criteria": {
-      "has_material": "2024-12-02 21:23:23 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/apothecary_mossy": {
-    "criteria": {
-      "has_item": "2024-12-02 20:59:59 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/hydralux_petal_block_light_blue": {
     "criteria": {
       "has_light_blue_dye": "2024-12-02 21:00:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/heavy": {
-    "criteria": {
-      "has_item": "2024-12-02 21:23:23 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/guts_sword": {
-    "criteria": {
-      "has_item": "2024-12-02 21:23:23 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2024-12-02 21:23:23 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/presses": {
-    "criteria": {
-      "calculation": "2024-12-02 20:58:09 +0000",
-      "silicon": "2024-12-02 20:58:41 +0000",
-      "engineering": "2024-12-02 20:58:18 +0000",
-      "logic": "2024-12-02 20:58:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/lime_wool_from_yellow_wool_with_light_blue_dye": {
     "criteria": {
       "has_light_blue_dye": "2024-12-02 21:00:03 +0000"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
-    "criteria": {
-      "has_seagrass": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
-  "botania:main/flower_pickup_lexicon": {
-    "criteria": {
-      "flower": "2024-12-02 20:59:50 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/double_axes/double_axe_double": {
-    "criteria": {
-      "has_iron_block": "2024-12-02 21:23:23 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/sponge_piece_from_cod": {
-    "criteria": {
-      "has_cod": "2024-12-02 20:45:44 +0000"
     },
     "done": true
   },
@@ -15228,24 +15247,6 @@
   "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
       "has_light_blue_dye": "2024-12-02 21:00:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
-    "criteria": {
-      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/red_string_dispenser": {
-    "criteria": {
-      "has_base_block": "2024-12-02 21:21:58 +0000"
     },
     "done": true
   },
@@ -15273,33 +15274,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
-    "criteria": {
-      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
-    },
-    "done": true
-  },
-  "botania:main/flower_pickup": {
-    "criteria": {
-      "double_flower": "2024-12-02 20:59:01 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/light_blue_terracotta_from_light_gray_terracotta_with_light_blue_dye": {
     "criteria": {
       "has_light_blue_dye": "2024-12-02 21:00:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/grilled_salmon": {
-    "criteria": {
-      "has_salmon": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/twig_wand": {
-    "criteria": {
-      "has_item": "2024-12-02 20:59:59 +0000"
     },
     "done": true
   },
@@ -15309,21 +15286,9 @@
     },
     "done": true
   },
-  "mcdw:recipes/hammers/hammer_mace": {
-    "criteria": {
-      "has_iron_block": "2024-12-02 21:23:23 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/light_blue_stained_glass_pane_from_light_gray_stained_glass_pane_with_light_blue_dye": {
     "criteria": {
       "has_light_blue_dye": "2024-12-02 21:00:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/light_blue_petal_block": {
-    "criteria": {
-      "has_item": "2024-12-02 20:59:59 +0000"
     },
     "done": true
   },
@@ -15333,45 +15298,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
-    "criteria": {
-      "has_grass_variant": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/lime_candle_from_yellow_candle_with_light_blue_dye": {
     "criteria": {
       "has_light_blue_dye": "2024-12-02 21:00:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/ruby_dust": {
-    "criteria": {
-      "has_tag_c_rubies": "2024-12-02 21:21:09 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/red_garnet_dust": {
-    "criteria": {
-      "has_tag_c_red_garnet_gems": "2024-12-02 21:21:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2024-12-02 21:22:44 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
-    "criteria": {
-      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
     },
     "done": true
   },
@@ -15381,51 +15310,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/refined_iron_ingot_from_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2024-12-02 21:22:44 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_light_blue": {
     "criteria": {
       "has_light_blue_dye": "2024-12-02 21:00:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_blue": {
-    "criteria": {
-      "has_item": "2024-12-02 20:59:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_blue_double": {
-    "criteria": {
-      "has_item": "2024-12-02 20:59:01 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
-    "criteria": {
-      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_destructor_hammer": {
-    "criteria": {
-      "has_material": "2024-12-02 21:23:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2024-12-02 20:45:44 +0000"
     },
     "done": true
   },
@@ -15441,27 +15328,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2024-12-02 21:23:23 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/blue_dye_from_tube_coral": {
-    "criteria": {
-      "has_tube_coral": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/lime_terracotta_from_yellow_terracotta_with_light_blue_dye": {
     "criteria": {
       "has_light_blue_dye": "2024-12-02 21:00:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/iron_plate_from_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-02 21:23:23 +0000"
     },
     "done": true
   },
@@ -15471,57 +15340,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/extractor/yellow_dye_from_horn_coral": {
-    "criteria": {
-      "has_horn_coral": "2024-12-02 20:45:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
-    "criteria": {
-      "has_cod": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/light_blue_wool_from_light_gray_wool_with_light_blue_dye": {
     "criteria": {
       "has_light_blue_dye": "2024-12-02 21:00:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/lime_carpet_from_yellow_carpet_with_light_blue_dye": {
     "criteria": {
       "has_light_blue_dye": "2024-12-02 21:00:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2024-12-02 21:22:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematicannon": {
-    "criteria": {
-      "has_item": "2024-12-02 21:08:13 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/raw_iron_from_iron_ore_with_water": {
-    "criteria": {
-      "has_tag_c_iron_ores": "2024-12-02 21:22:44 +0000"
     },
     "done": true
   },
@@ -15543,45 +15370,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
-    "criteria": {
-      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/apothecary_default": {
-    "criteria": {
-      "has_item": "2024-12-02 20:59:59 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/quartz_glass_light_blue": {
     "criteria": {
       "has_light_blue_dye": "2024-12-02 21:00:03 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-02 20:45:44 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_light_blue": {
-    "criteria": {
-      "has_item": "2024-12-02 20:59:59 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/quartz_glass_pane_light_blue": {
     "criteria": {
       "has_light_blue_dye": "2024-12-02 21:00:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/light_blue_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2024-12-02 20:59:59 +0000"
     },
     "done": true
   },
@@ -15597,9 +15394,225 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2024-12-02 21:01:00 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2024-12-02 21:02:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2024-12-02 21:08:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
+    "criteria": {
+      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
+    "criteria": {
+      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
+    "criteria": {
+      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
+    "criteria": {
+      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
+    "criteria": {
+      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
+    "criteria": {
+      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
+    "criteria": {
+      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/ruby_dust": {
+    "criteria": {
+      "has_tag_c_rubies": "2024-12-02 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
+    "criteria": {
+      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
+    "criteria": {
+      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
+    "criteria": {
+      "has_ruby_gem": "2024-12-02 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/red_garnet_storage_block": {
+    "criteria": {
+      "has_red_garnet_gem": "2024-12-02 21:21:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/red_garnet_dust": {
+    "criteria": {
+      "has_tag_c_red_garnet_gems": "2024-12-02 21:21:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2024-12-02 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_dispenser": {
+    "criteria": {
+      "has_base_block": "2024-12-02 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/raw_iron": {
+    "criteria": {
+      "has_tag_c_iron_ores": "2024-12-02 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-02 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/refined_iron_ingot_from_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-02 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-02 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_iron_from_iron_ore_with_water": {
+    "criteria": {
+      "has_tag_c_iron_ores": "2024-12-02 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-02 21:23:23 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-02 21:23:23 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-02 21:23:23 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-02 21:23:23 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-02 21:23:23 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-12-02 21:23:23 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_iron_block": "2024-12-02 21:23:23 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_mace": {
+    "criteria": {
+      "has_iron_block": "2024-12-02 21:23:23 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-12-02 21:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-02 21:23:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-02 21:23:23 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2024-12-02 21:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-03 09:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-03 09:04:34 +0000"
     },
     "done": true
   },
