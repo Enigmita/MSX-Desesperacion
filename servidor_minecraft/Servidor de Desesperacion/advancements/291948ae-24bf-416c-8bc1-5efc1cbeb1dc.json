@@ -16454,6 +16454,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-03 12:21:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_pressure_plate": {
     "criteria": {
       "has_rubber_planks": "2024-12-03 11:04:00 +0000"
@@ -16469,6 +16475,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_stonecutting": {
     "criteria": {
       "has_item": "2024-12-03 11:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-03 12:21:29 +0000"
     },
     "done": true
   },
@@ -16502,9 +16514,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-03 12:16:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_wood": {
+    "criteria": {
+      "has_log": "2024-12-03 12:18:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-12-03 11:08:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_planks": {
+    "criteria": {
+      "has_logs": "2024-12-03 12:18:16 +0000"
     },
     "done": true
   },
@@ -16519,6 +16549,18 @@
       "has_polished_andesite": "2024-12-03 11:08:02 +0000"
     },
     "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2024-12-03 12:16:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "blackwood_log": "2024-12-03 12:18:16 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:recipes/misc/red_dye_from_poppy_bush": {
     "criteria": {
@@ -16556,6 +16598,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2024-12-03 12:16:49 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_door": {
     "criteria": {
       "has_rubber_planks": "2024-12-03 11:04:00 +0000"
@@ -16568,15 +16616,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/blackwood_branch_from_blackwood_log": {
+    "criteria": {
+      "has_log": "2024-12-03 12:18:16 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cracked_cobblestone_bricks": {
     "criteria": {
       "has_item": "2024-12-03 11:14:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-03 12:21:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/paper_from_written_book": {
     "criteria": {
       "has_written_book": "2024-12-03 11:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-03 12:16:49 +0000"
     },
     "done": true
   },
