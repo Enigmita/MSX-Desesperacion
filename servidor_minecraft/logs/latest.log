@@ -2434,3 +2434,32 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [10:22:32] [Server thread/WARN]: JakeRomas moved wrongly!
 [10:22:33] [Server thread/WARN]: JakeRomas moved wrongly!
 [10:22:34] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:24:25] [Server thread/INFO]: JakeRomas has made the advancement [The Imperial March]
+[10:24:30] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:25:34] [Server thread/WARN]: JakeRomas moved wrongly!
+[10:29:04] [Server thread/INFO]: New Schematic Uploaded: JakeRomas/blacksmith_starter_base.nbt
+[10:30:50] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[10:30:50] [Server thread/INFO]: JakeRomas lost connection: Disconnected
+[10:30:50] [Server thread/INFO]: JakeRomas left the game
+[10:30:50] [Server thread/INFO]: remove player wand
+[10:30:50] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[10:31:54] [User Authenticator #5/INFO]: UUID of player JakeRomas is 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[10:31:54] [Server thread/INFO]: [Handshake] Sending channel query
+[10:31:54] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[10:31:54] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[10:31:54] [Server thread/INFO]: JakeRomas[/100.98.137.105:52358] logged in with entity id 37242 at (87.71403231257769, 153.875, 657.4951805309915)
+[10:31:54] [Server thread/INFO]: Sending server config values to client
+[10:31:54] [Server thread/INFO]: Syncing config to JakeRomas (291948ae-24bf-416c-8bc1-5efc1cbeb1dc)
+[10:31:54] [Server thread/INFO]: Loading config from file...
+[10:31:54] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[10:31:54] [Server thread/INFO]: JakeRomas joined the game
+[10:31:54] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[10:31:54] [Server thread/INFO]: PLAYER_JOIN
+[10:31:54] [Server thread/INFO]: add_player wand
+[10:31:54] [Server thread/INFO]: config sent
+[10:31:55] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[10:31:57] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: JakeRomas -> Global
+[10:31:57] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player JakeRomas. Claiming: GRAVE / Robbing: INVENTORY
+[10:31:59] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of JakeRomas accepted server config.
+[10:32:35] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
