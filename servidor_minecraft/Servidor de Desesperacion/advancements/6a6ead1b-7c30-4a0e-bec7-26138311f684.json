@@ -5031,6 +5031,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/food/stalagnate_bowl_mushroom": {
     "criteria": {
       "has_brown_mushroom": "2024-12-03 17:48:44 +0000"
@@ -5040,6 +5046,18 @@
   "botania:recipes/food/mushroom_stew": {
     "criteria": {
       "has_orig_recipe": "2024-12-03 17:48:44 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
     },
     "done": true
   },
@@ -5079,6 +5097,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2024-12-03 17:48:44 +0000"
@@ -5091,15 +5115,33 @@
     },
     "done": true
   },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2024-12-03 17:48:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2024-12-03 17:41:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
     },
     "done": true
   },
@@ -5142,6 +5184,18 @@
   "botania:recipes/decorations/blue_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-03 17:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_mat": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
     },
     "done": true
   },
