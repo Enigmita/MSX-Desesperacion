@@ -2841,3 +2841,7 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [13:33:13] [Server thread/INFO]: JakeRomas left the game
 [13:33:13] [Server thread/INFO]: remove player wand
 [13:33:13] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[13:38:09] [Server thread/INFO]: NsoEnigma lost connection: Disconnected
+[13:38:09] [Server thread/INFO]: NsoEnigma left the game
+[13:38:09] [Server thread/INFO]: remove player wand
+[13:38:09] [Server thread/INFO]: Updating all forceload tickets for 945f4c6b-8722-4a3d-bb3b-1634774b094d
