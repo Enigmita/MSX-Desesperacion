@@ -7457,7 +7457,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2024-11-28 13:55:26 +0000"
+      "phantom": "2024-11-28 13:55:26 +0000",
+      "warden": "2024-12-03 10:54:41 +0000"
     },
     "done": false
   },
@@ -16426,6 +16427,18 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2024-12-03 10:40:13 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2024-12-03 10:54:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_written_book": {
+    "criteria": {
+      "has_written_book": "2024-12-03 11:01:24 +0000"
     },
     "done": true
   },
