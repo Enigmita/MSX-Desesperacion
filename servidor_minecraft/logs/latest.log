@@ -2770,3 +2770,58 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [13:06:20] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: JakeRomas -> Global
 [13:06:20] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player JakeRomas. Claiming: GRAVE / Robbing: INVENTORY
 [13:06:22] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of JakeRomas accepted server config.
+[13:10:04] [Server thread/INFO]: Set NsoEnigma's game mode to Creative Mode
+[13:12:15] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of JakeRomas accepted server config.
+[13:12:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[13:19:49] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[13:19:49] [Server thread/INFO]: JakeRomas lost connection: Disconnected
+[13:19:49] [Server thread/INFO]: JakeRomas left the game
+[13:19:49] [Server thread/INFO]: remove player wand
+[13:19:49] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[13:20:59] [User Authenticator #14/INFO]: UUID of player JakeRomas is 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[13:20:59] [Server thread/INFO]: [Handshake] Sending channel query
+[13:20:59] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[13:20:59] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[13:20:59] [Server thread/INFO]: JakeRomas[/100.98.137.105:56561] logged in with entity id 1626195 at (175.69841952752498, 67.0, 1223.9387590352803)
+[13:20:59] [Server thread/INFO]: Sending server config values to client
+[13:20:59] [Server thread/INFO]: Syncing config to JakeRomas (291948ae-24bf-416c-8bc1-5efc1cbeb1dc)
+[13:20:59] [Server thread/INFO]: Loading config from file...
+[13:21:00] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[13:21:00] [Server thread/INFO]: JakeRomas joined the game
+[13:21:00] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[13:21:00] [Server thread/INFO]: PLAYER_JOIN
+[13:21:00] [Server thread/INFO]: add_player wand
+[13:21:00] [Server thread/INFO]: config sent
+[13:21:01] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[13:21:02] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: JakeRomas -> Global
+[13:21:02] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player JakeRomas. Claiming: GRAVE / Robbing: INVENTORY
+[13:21:04] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of JakeRomas accepted server config.
+[13:24:37] [Server thread/INFO]: [NsoEnigma: Set own game mode to Survival Mode]
+[13:24:38] [Server thread/INFO]: NsoEnigma has made the advancement [A very expensive block]
+[13:25:07] [Server thread/INFO]: [NsoEnigma: Set own game mode to Creative Mode]
+[13:25:13] [Server thread/INFO]: [NsoEnigma: Set own game mode to Survival Mode]
+[13:26:17] [Server thread/INFO]: NsoEnigma lost connection: Disconnected
+[13:26:17] [Server thread/INFO]: NsoEnigma left the game
+[13:26:17] [Server thread/INFO]: remove player wand
+[13:26:17] [Server thread/INFO]: Updating all forceload tickets for 945f4c6b-8722-4a3d-bb3b-1634774b094d
+[13:26:21] [User Authenticator #15/INFO]: UUID of player NsoEnigma is 945f4c6b-8722-4a3d-bb3b-1634774b094d
+[13:26:21] [Server thread/INFO]: [Handshake] Sending channel query
+[13:26:21] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[13:26:21] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[13:26:21] [Server thread/INFO]: NsoEnigma[/100.66.197.37:52865] logged in with entity id 2735765 at (948.7058173132493, 66.0, 376.68542943644456)
+[13:26:21] [Server thread/INFO]: Sending server config values to client
+[13:26:21] [Server thread/INFO]: Syncing config to NsoEnigma (945f4c6b-8722-4a3d-bb3b-1634774b094d)
+[13:26:21] [Server thread/INFO]: Loading config from file...
+[13:26:21] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[13:26:21] [Server thread/INFO]: NsoEnigma joined the game
+[13:26:21] [Server thread/INFO]: PLAYER_JOIN
+[13:26:21] [Server thread/INFO]: add_player wand
+[13:26:21] [Server thread/INFO]: config sent
+[13:26:21] [Server thread/INFO]: Updating all forceload tickets for 945f4c6b-8722-4a3d-bb3b-1634774b094d
+[13:26:22] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[13:26:24] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: NsoEnigma -> Global
+[13:26:24] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player NsoEnigma. Claiming: GRAVE / Robbing: INVENTORY
+[13:26:25] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of NsoEnigma accepted server config.
+[13:26:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:26:42] [Server thread/INFO]: /deop NsoEnigma<--[HERE]
