@@ -2318,3 +2318,42 @@ BCLib - Nether BiomeSource (1cf2dfb2)
 [18:21:06] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Lauribluee -> Global
 [18:21:06] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Lauribluee. Claiming: GRAVE / Robbing: INVENTORY
 [18:21:07] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Lauribluee accepted server config.
+[18:25:29] [User Authenticator #3/INFO]: UUID of player Nemenixm is 8874e1d7-6629-48e6-871f-9fe7c1412b43
+[18:25:30] [Server thread/INFO]: [Handshake] Sending channel query
+[18:25:30] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[18:25:30] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[18:25:30] [Server thread/INFO]: Nemenixm[/100.89.72.109:50806] logged in with entity id 8266 at (-1.797008736902352, 64.0, -9.045741762247799)
+[18:25:30] [Server thread/INFO]: Sending server config values to client
+[18:25:30] [Server thread/INFO]: Syncing config to Nemenixm (8874e1d7-6629-48e6-871f-9fe7c1412b43)
+[18:25:30] [Server thread/INFO]: Loading config from file...
+[18:25:30] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:25:30] [Server thread/INFO]: Nemenixm joined the game
+[18:25:30] [Server thread/INFO]: Updating all forceload tickets for 8874e1d7-6629-48e6-871f-9fe7c1412b43
+[18:25:30] [Server thread/INFO]: PLAYER_JOIN
+[18:25:30] [Server thread/INFO]: add_player wand
+[18:25:30] [Server thread/INFO]: config sent
+[18:25:32] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[18:25:37] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: Nemenixm -> Global
+[18:25:37] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Nemenixm. Claiming: GRAVE / Robbing: INVENTORY
+[18:25:39] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Nemenixm accepted server config.
+[18:26:40] [Server thread/INFO]: Nemenixm has made the advancement [Enter Sandman]
+[18:29:28] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Nemenixm accepted server config.
+[18:32:06] [User Authenticator #4/INFO]: UUID of player ivancito3008 is 854229f9-91e2-4afb-a7ec-1f9af9043dad
+[18:32:06] [Server thread/INFO]: [Handshake] Sending channel query
+[18:32:06] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[18:32:06] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[18:32:06] [Server thread/INFO]: ivancito3008[/100.118.156.17:53782] logged in with entity id 10486 at (446.4128001828571, 67.0, -307.84361721991496)
+[18:32:06] [Server thread/INFO]: Sending server config values to client
+[18:32:06] [Server thread/INFO]: Syncing config to ivancito3008 (854229f9-91e2-4afb-a7ec-1f9af9043dad)
+[18:32:06] [Server thread/INFO]: Loading config from file...
+[18:32:07] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:32:07] [Server thread/INFO]: ivancito3008 joined the game
+[18:32:07] [Server thread/INFO]: Updating all forceload tickets for 854229f9-91e2-4afb-a7ec-1f9af9043dad
+[18:32:07] [Server thread/INFO]: PLAYER_JOIN
+[18:32:07] [Server thread/INFO]: add_player wand
+[18:32:07] [Server thread/INFO]: config sent
+[18:32:08] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[18:32:11] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: ivancito3008 -> Global
+[18:32:11] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player ivancito3008. Claiming: GRAVE / Robbing: INVENTORY
+[18:32:12] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ivancito3008 accepted server config.
+[18:33:26] [Server thread/INFO]: Nemenixm claimed a grave belonging to Nemenixm at 252, -8, 227, minecraft:overworld

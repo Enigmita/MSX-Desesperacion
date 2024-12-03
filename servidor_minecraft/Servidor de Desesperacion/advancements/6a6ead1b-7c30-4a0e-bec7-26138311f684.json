@@ -607,6 +607,7 @@
     "criteria": {
       "minecraft:wooded_badlands": "2024-11-28 12:58:31 +0000",
       "minecraft:badlands": "2024-11-28 12:52:22 +0000",
+      "minecraft:river": "2024-12-03 18:25:23 +0000",
       "minecraft:desert": "2024-11-28 12:20:57 +0000"
     },
     "done": false
@@ -4990,21 +4991,63 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "regions_unexplored:recipes/misc/red_dye_from_waratah": {
     "criteria": {
-      "has_any_ingredient": "2024-12-03 17:48:44 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/palm_beard_from_palm_log": {
-    "criteria": {
-      "has_log": "2024-12-03 18:03:53 +0000"
+      "has_waratah": "2024-12-03 17:41:27 +0000"
     },
     "done": true
   },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2024-12-03 17:41:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2024-12-03 17:41:59 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-12-03 17:41:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/lime_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-03 17:41:59 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-12-03 17:41:59 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-12-03 17:41:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_lime": {
+    "criteria": {
+      "has_item": "2024-12-03 17:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-03 17:44:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-03 17:48:44 +0000"
     },
     "done": true
   },
@@ -5020,30 +5063,6 @@
     },
     "done": true
   },
-  "botania:recipes/tools/flower_bag": {
-    "criteria": {
-      "has_item": "2024-12-03 17:41:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-03 17:44:11 +0000"
-    },
-    "done": true
-  },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2024-12-03 17:41:59 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bamboo_spikes": {
-    "criteria": {
-      "has_bamboo": "2024-12-03 17:49:43 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/food/stalagnate_bowl_mushroom": {
     "criteria": {
       "has_brown_mushroom": "2024-12-03 17:48:44 +0000"
@@ -5053,18 +5072,6 @@
   "botania:recipes/food/mushroom_stew": {
     "criteria": {
       "has_orig_recipe": "2024-12-03 17:48:44 +0000"
-    },
-    "done": true
-  },
-  "beachparty:beachpartypalm_torch": {
-    "criteria": {
-      "has_bamboo": "2024-12-03 17:49:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2024-12-03 17:49:43 +0000"
     },
     "done": true
   },
@@ -5086,42 +5093,6 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/lime_shiny_flower": {
-    "criteria": {
-      "has_item": "2024-12-03 17:41:59 +0000"
-    },
-    "done": true
-  },
-  "botania:main/flower_pickup_lexicon": {
-    "criteria": {
-      "flower": "2024-12-03 17:41:59 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_white": {
-    "criteria": {
-      "has_item": "2024-12-03 18:01:11 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/red_dye_from_waratah": {
-    "criteria": {
-      "has_waratah": "2024-12-03 17:41:27 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/naturalist/bug_net": {
-    "criteria": {
-      "has_bamboo": "2024-12-03 17:49:43 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/palm_shrub": {
-    "criteria": {
-      "has_palm_sapling": "2024-12-03 18:03:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2024-12-03 17:48:44 +0000"
@@ -5134,39 +5105,9 @@
     },
     "done": true
   },
-  "beachparty:palm_torch": {
-    "criteria": {
-      "has_bamboo": "2024-12-03 17:49:43 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2024-12-03 17:48:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2024-12-03 17:49:43 +0000"
-    },
-    "done": true
-  },
-  "botania:main/flower_pickup": {
-    "criteria": {
-      "flower": "2024-12-03 17:41:59 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/palm_wood": {
-    "criteria": {
-      "has_log": "2024-12-03 18:03:53 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flute": {
-    "criteria": {
-      "has_bamboo": "2024-12-03 17:49:43 +0000"
     },
     "done": true
   },
@@ -5203,36 +5144,6 @@
   "botania:recipes/decorations/mushroom_13": {
     "criteria": {
       "has_alt_item": "2024-12-03 17:48:44 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/blue_shiny_flower": {
-    "criteria": {
-      "has_item": "2024-12-03 17:48:54 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/palm_planks": {
-    "criteria": {
-      "has_logs": "2024-12-03 18:03:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2024-12-03 17:49:43 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/bamboo_mat": {
-    "criteria": {
-      "has_bamboo": "2024-12-03 17:49:43 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/white_shiny_flower": {
-    "criteria": {
-      "has_item": "2024-12-03 18:01:11 +0000"
     },
     "done": true
   },
@@ -5296,9 +5207,15 @@
     },
     "done": true
   },
-  "botania:recipes/misc/petal_lime": {
+  "techreborn:recipes/centrifuge/brown_mushroom": {
     "criteria": {
-      "has_item": "2024-12-03 17:41:59 +0000"
+      "has_brown_mushroom": "2024-12-03 17:48:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-03 17:48:54 +0000"
     },
     "done": true
   },
@@ -5308,9 +5225,159 @@
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/brown_mushroom": {
+  "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
-      "has_brown_mushroom": "2024-12-03 17:48:44 +0000"
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_mat": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 17:49:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2024-12-03 18:01:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-03 18:01:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/palm_beard_from_palm_log": {
+    "criteria": {
+      "has_log": "2024-12-03 18:03:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2024-12-03 18:03:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/palm_planks": {
+    "criteria": {
+      "has_logs": "2024-12-03 18:03:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/palm_shrub": {
+    "criteria": {
+      "has_palm_sapling": "2024-12-03 18:03:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-03 18:24:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-03 18:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-03 18:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-03 18:26:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-03 18:26:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray": {
+    "criteria": {
+      "has_item": "2024-12-03 18:24:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-03 18:26:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-03 18:26:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brown_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-03 18:27:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-03 18:26:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown": {
+    "criteria": {
+      "has_item": "2024-12-03 18:27:20 +0000"
     },
     "done": true
   },

@@ -3,6 +3,7 @@
 	type: "party"
 	owner: "6a6ead1b-7c30-4a0e-bec7-26138311f684"
 	ranks: {
+		8874e1d7-6629-48e6-871f-9fe7c1412b43: "invited"
 		6a6ead1b-7c30-4a0e-bec7-26138311f684: "owner"
 	}
 	properties: {
@@ -12,6 +13,9 @@
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
-	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1733249817633L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Lauribluee\"}]}" }]
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1733249817633L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Lauribluee\"}]}" }
+		{ from: "6a6ead1b-7c30-4a0e-bec7-26138311f684", date: 1733250554033L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Nemenixm\"}]}" }
+	]
 	extra: { }
 }
