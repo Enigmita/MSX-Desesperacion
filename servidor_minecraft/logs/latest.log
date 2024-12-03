@@ -2353,3 +2353,42 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [09:31:50] [Server thread/WARN]: JakeRomas moved wrongly!
 [09:31:50] [Server thread/WARN]: JakeRomas moved wrongly!
 [09:31:51] [Server thread/WARN]: JakeRomas moved wrongly!
+[09:32:16] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[09:32:17] [Server thread/INFO]: JakeRomas lost connection: Disconnected
+[09:32:17] [Server thread/INFO]: JakeRomas left the game
+[09:32:17] [Server thread/INFO]: remove player wand
+[09:32:17] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[09:32:35] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
+[09:33:41] [User Authenticator #3/INFO]: UUID of player JakeRomas is 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[09:33:41] [Server thread/INFO]: [Handshake] Sending channel query
+[09:33:41] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[09:33:41] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[09:33:41] [Server thread/INFO]: JakeRomas[/100.98.137.105:49521] logged in with entity id 9837 at (1724.699999988079, 99.1944266751309, 2456.300000011921)
+[09:33:41] [Server thread/INFO]: Sending server config values to client
+[09:33:42] [Server thread/INFO]: Syncing config to JakeRomas (291948ae-24bf-416c-8bc1-5efc1cbeb1dc)
+[09:33:42] [Server thread/INFO]: Loading config from file...
+[09:33:42] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[09:33:42] [Server thread/INFO]: JakeRomas joined the game
+[09:33:42] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[09:33:42] [Server thread/INFO]: PLAYER_JOIN
+[09:33:42] [Server thread/INFO]: add_player wand
+[09:33:42] [Server thread/INFO]: config sent
+[09:33:43] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[09:33:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2284ms or 45 ticks behind
+[09:33:45] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: JakeRomas -> Global
+[09:33:45] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player JakeRomas. Claiming: GRAVE / Robbing: INVENTORY
+[09:33:47] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of JakeRomas accepted server config.
+[09:34:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
+[09:34:52] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_beach], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:small/village_underground]] from pos class_2338{x=1643, y=70, z=2165}
+[09:34:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3420ms or 68 ticks behind
+[09:35:54] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach]] from pos class_2338{x=1621, y=67, z=1877}
+[09:35:54] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=1622, y=67, z=1877} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[09:35:54] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location class_2338{x=1622, y=67, z=1877}
+[09:35:54] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=1622, y=66, z=1877} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[09:35:54] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location class_2338{x=1622, y=66, z=1877}
+[09:35:56] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=1621, y=67, z=1877} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[09:35:56] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location class_2338{x=1621, y=67, z=1877}
+[09:36:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
+[09:36:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2265ms or 45 ticks behind
+[09:45:16] [Server thread/WARN]: JakeRomas moved wrongly!

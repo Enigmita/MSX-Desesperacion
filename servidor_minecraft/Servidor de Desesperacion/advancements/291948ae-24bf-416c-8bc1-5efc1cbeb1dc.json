@@ -622,6 +622,7 @@
       "minecraft:desert": "2024-11-28 12:14:41 +0000",
       "minecraft:ocean": "2024-12-02 12:34:31 +0000",
       "minecraft:jungle": "2024-12-02 14:58:52 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-03 09:36:20 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-02 14:52:25 +0000",
       "minecraft:meadow": "2024-12-02 12:51:12 +0000",
       "minecraft:savanna": "2024-11-28 12:48:14 +0000",
@@ -3169,6 +3170,7 @@
       "steppe": "2024-12-02 15:16:42 +0000",
       "pine_taiga": "2024-12-02 15:02:08 +0000",
       "marsh": "2024-12-02 15:16:52 +0000",
+      "willow_forest": "2024-12-03 09:37:25 +0000",
       "barley_fields": "2024-12-02 12:33:27 +0000",
       "grassy_beach": "2024-12-02 12:34:28 +0000",
       "blackwood_taiga": "2024-12-02 12:34:43 +0000",
@@ -3198,6 +3200,7 @@
       "steppe": "2024-12-02 15:16:42 +0000",
       "pine_taiga": "2024-12-02 15:02:08 +0000",
       "marsh": "2024-12-02 15:16:52 +0000",
+      "willow_forest": "2024-12-03 09:37:25 +0000",
       "barley_fields": "2024-12-02 12:33:27 +0000",
       "grassy_beach": "2024-12-02 12:34:28 +0000",
       "blackwood_taiga": "2024-12-02 12:34:43 +0000",
@@ -15982,6 +15985,24 @@
   "betternether:recipes/misc/stalagnate_wall": {
     "criteria": {
       "has_stalagnate_fence": "2024-12-03 09:26:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_black_apple": "2024-12-03 09:29:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/stalagnate_bowl_apple": {
+    "criteria": {
+      "has_black_apple": "2024-12-03 09:29:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/black_apple_seed": {
+    "criteria": {
+      "has_black_apple": "2024-12-03 09:29:19 +0000"
     },
     "done": true
   },
