@@ -2701,3 +2701,35 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [12:25:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
 [12:25:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4075ms or 81 ticks behind
 [12:32:35] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
+[12:40:56] [User Authenticator #11/INFO]: UUID of player NsoEnigma is 945f4c6b-8722-4a3d-bb3b-1634774b094d
+[12:40:56] [Server thread/INFO]: [Handshake] Sending channel query
+[12:40:56] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[12:40:56] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[12:40:56] [Server thread/INFO]: NsoEnigma[/100.66.197.37:52623] logged in with entity id 71879 at (950.4781431776225, 76.0625, 375.21880927985904)
+[12:40:56] [Server thread/INFO]: Sending server config values to client
+[12:40:56] [Server thread/INFO]: Syncing config to NsoEnigma (945f4c6b-8722-4a3d-bb3b-1634774b094d)
+[12:40:56] [Server thread/INFO]: Loading config from file...
+[12:40:56] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[12:40:56] [Server thread/INFO]: NsoEnigma joined the game
+[12:40:56] [Server thread/INFO]: PLAYER_JOIN
+[12:40:56] [Server thread/INFO]: add_player wand
+[12:40:56] [Server thread/INFO]: config sent
+[12:40:56] [Server thread/INFO]: Updating all forceload tickets for 945f4c6b-8722-4a3d-bb3b-1634774b094d
+[12:40:57] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[12:41:01] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: NsoEnigma -> Global
+[12:41:01] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player NsoEnigma. Claiming: GRAVE / Robbing: INVENTORY
+[12:41:02] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of NsoEnigma accepted server config.
+[12:41:38] [Server thread/INFO]: Set NsoEnigma's game mode to Survival Mode
+[12:43:11] [Server thread/INFO]: NsoEnigma lost connection: Disconnected
+[12:43:11] [Server thread/INFO]: NsoEnigma left the game
+[12:43:11] [Server thread/INFO]: remove player wand
+[12:43:11] [Server thread/INFO]: Updating all forceload tickets for 945f4c6b-8722-4a3d-bb3b-1634774b094d
+[12:45:29] [Server thread/INFO]: JakeRomas burned to death
+[12:45:31] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of JakeRomas accepted server config.
+[12:46:24] [Server thread/INFO]: JakeRomas claimed a grave belonging to JakeRomas at 777, 87, 434, minecraft:overworld
+[12:55:20] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[12:55:20] [Server thread/INFO]: JakeRomas lost connection: Disconnected
+[12:55:20] [Server thread/INFO]: JakeRomas left the game
+[12:55:20] [Server thread/INFO]: remove player wand
+[12:55:20] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc

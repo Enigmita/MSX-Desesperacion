@@ -16442,6 +16442,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2024-12-03 12:45:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-03 11:08:02 +0000"
@@ -16454,6 +16460,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/plantball_from_leaves": {
+    "criteria": {
+      "has_leaves": "2024-12-03 12:47:54 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_beam": {
     "criteria": {
       "has_stripped_log": "2024-12-03 12:21:29 +0000"
@@ -16463,6 +16475,12 @@
   "techreborn:recipes/crafting_table/misc_block/rubber_pressure_plate": {
     "criteria": {
       "has_rubber_planks": "2024-12-03 11:04:00 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_shear_dagger": {
+    "criteria": {
+      "has_shears": "2024-12-03 12:47:42 +0000"
     },
     "done": true
   },
@@ -16490,6 +16508,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/oak_leaf": {
+    "criteria": {
+      "has_leaves": "2024-12-03 12:48:18 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
     "criteria": {
       "has_log": "2024-12-03 12:32:57 +0000"
@@ -16499,6 +16523,12 @@
   "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
     "criteria": {
       "has_log": "2024-12-03 12:32:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/quesadilla": {
+    "criteria": {
+      "has_avocado": "2024-12-03 12:33:04 +0000"
     },
     "done": true
   },
@@ -16520,9 +16550,21 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 12:52:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_fence": {
     "criteria": {
       "has_rubber_planks": "2024-12-03 11:04:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/spruce_slab_from_stairs": {
+    "criteria": {
+      "has_spruce_stairs": "2024-12-03 12:35:10 +0000"
     },
     "done": true
   },
@@ -16550,6 +16592,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2024-12-03 12:35:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2024-12-03 12:29:27 +0000"
@@ -16565,6 +16613,30 @@
   "techreborn:recipes/crafting_table/misc_block/rubber_fence_gate": {
     "criteria": {
       "has_rubber_planks": "2024-12-03 11:04:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-03 12:52:16 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2024-12-03 12:52:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-03 12:45:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/spruce_pressure_plate_from_slab": {
+    "criteria": {
+      "has_spruce_slab": "2024-12-03 12:52:06 +0000"
     },
     "done": true
   },
@@ -16592,6 +16664,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/avocado_sapling": {
+    "criteria": {
+      "has_avocado": "2024-12-03 12:33:04 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/building_blocks/techreborn/sign_post_rubber": {
     "criteria": {
       "has_planks": "2024-12-03 11:04:00 +0000"
@@ -16604,6 +16682,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-03 12:33:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-03 12:32:57 +0000"
@@ -16613,6 +16697,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_stonecutting": {
     "criteria": {
       "has_item": "2024-12-03 11:14:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_avocado_toast": {
+    "criteria": {
+      "has_avocado": "2024-12-03 12:33:04 +0000"
     },
     "done": true
   },
@@ -16631,6 +16721,12 @@
   "techreborn:recipes/crafting_table/misc_block/rubber_stair": {
     "criteria": {
       "has_rubber_planks": "2024-12-03 11:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-03 12:33:06 +0000"
     },
     "done": true
   },
@@ -16670,6 +16766,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2024-12-03 12:45:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
+    "criteria": {
+      "has_barrel": "2024-12-03 12:52:16 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2024-12-03 12:52:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2024-12-03 12:29:27 +0000"
@@ -16679,6 +16793,12 @@
   "techreborn:recipes/extractor/paper_from_written_book": {
     "criteria": {
       "has_written_book": "2024-12-03 11:01:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-03 12:52:16 +0000"
     },
     "done": true
   },
