@@ -2825,3 +2825,19 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [13:26:25] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of NsoEnigma accepted server config.
 [13:26:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [13:26:42] [Server thread/INFO]: /deop NsoEnigma<--[HERE]
+[13:30:09] [Server thread/INFO]: Teleported JakeRomas to NsoEnigma
+[13:30:09] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of JakeRomas accepted server config.
+[13:30:22] [Server thread/INFO]: [NsoEnigma: Made NsoEnigma no longer a server operator]
+[13:30:22] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of NsoEnigma accepted server config.
+[13:32:35] [pool-3-thread-1/ERROR]: Null Pack ID! Analytics will not send!
+[13:32:54] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:32:54] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:32:56] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:32:56] [Server thread/INFO]: NsoEnigma has completed the challenge [Cover Me in Netherite-Diamond]
+[13:32:57] [Server thread/WARN]: JakeRomas moved wrongly!
+[13:33:13] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[13:33:13] [Server thread/INFO]: JakeRomas lost connection: Disconnected
+[13:33:13] [Server thread/INFO]: JakeRomas left the game
+[13:33:13] [Server thread/INFO]: remove player wand
+[13:33:13] [Server thread/INFO]: Updating all forceload tickets for 291948ae-24bf-416c-8bc1-5efc1cbeb1dc

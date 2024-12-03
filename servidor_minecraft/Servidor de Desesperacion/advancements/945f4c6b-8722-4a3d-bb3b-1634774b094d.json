@@ -16340,5 +16340,11 @@
     },
     "done": true
   },
+  "advancednetherite:nether/netherite_diamond_armor": {
+    "criteria": {
+      "netherite_diamond_armor": "2024-12-03 13:32:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
